@@ -1,0 +1,238 @@
+PLAIN
+END
+ENDREP
+id: 3k-196.0.r202/17
+type: dir
+pred: 3k-196.0.r196/28675724
+count: 1
+text: 202 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Service/obj
+copyroot: 0 /
+
+PLAIN
+K 26
+CoE.Pattern.Service.csproj
+V 27
+file 2r-196.0.r196/28666003
+K 11
+IService.cs
+V 27
+file 2u-196.0.r196/28666340
+K 26
+IService.cs~RF1ff8573b.TMP
+V 27
+file 2w-196.0.r196/28666661
+K 10
+Properties
+V 26
+dir 2y-196.0.r196/28667404
+K 10
+Service.cs
+V 27
+file 32-196.0.r196/28667668
+K 3
+bin
+V 20
+dir 34-196.0.r201/17
+K 3
+obj
+V 20
+dir 3k-196.0.r202/17
+END
+ENDREP
+id: 2q-196.0.r202/651
+type: dir
+pred: 2q-196.0.r201/657
+count: 2
+text: 202 289 349 0 2512980201d90ad35381b392d7d4d72f
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Service
+copyroot: 0 /
+
+PLAIN
+K 26
+CoE.Pattern.Repository.EF6
+V 21
+dir e-196.0.r200/1112
+K 19
+CoE.Pattern.Service
+V 21
+dir 2q-196.0.r202/651
+K 23
+CoE.Patterns.Repository
+V 26
+dir 45-196.0.r196/28695045
+END
+ENDREP
+id: d-196.0.r202/1108
+type: dir
+pred: d-196.0.r201/1119
+count: 4
+text: 202 919 176 0 55f6a51ae832eb0e8591e48cacd8b013
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 25
+dir 8-196.0.r196/28648567
+K 10
+Frameworks
+V 21
+dir d-196.0.r202/1108
+K 6
+Sample
+V 23
+dir 6o-196.0.r197/10509
+END
+ENDREP
+id: 6-196.0.r202/1506
+type: dir
+pred: 6-196.0.r201/1517
+count: 5
+text: 202 1356 137 0 b54af58add13706d6ecc4d14ba9456bf
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository
+copyroot: 0 /
+
+PLAIN
+K 26
+01. MVC-Service-Repository
+V 21
+dir 6-196.0.r202/1506
+K 14
+02. MVC-API-EF
+V 26
+dir lb-196.0.r196/28804519
+K 31
+CoE.Technology.Architecture.sln
+V 27
+file lc-196.0.r196/28804672
+K 8
+packages
+V 26
+dir lg-196.0.r196/28899311
+END
+ENDREP
+id: 4-196.0.r202/1987
+type: dir
+pred: 4-196.0.r201/1998
+count: 6
+text: 202 1744 230 0 f6cdff294a6a172d5eb936440689dd1b
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture
+copyroot: 0 /
+
+PLAIN
+K 27
+CoE.Technology.Architecture
+V 21
+dir 4-196.0.r202/1987
+END
+ENDREP
+id: 3-195.0.r202/2275
+type: dir
+pred: 3-195.0.r201/2286
+count: 7
+text: 202 2198 64 0 82021da5b109d1b2369c520c13136fda
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 21
+dir 3-195.0.r202/2275
+END
+ENDREP
+id: 4-56.0.r202/2509
+type: dir
+pred: 4-56.0.r201/2520
+count: 8
+text: 202 2457 39 0 e26202a6aae5058e4b587931ae3431f3
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r194/22208
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r192/10351
+K 8
+4_Design
+V 23
+dir 2-56.0.r190/1088248
+K 13
+5_Development
+V 20
+dir 4-56.0.r202/2509
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 21
+dir 6-56.0.r180/75589
+END
+ENDREP
+id: 1-2.0.r202/3047
+type: dir
+pred: 1-2.0.r201/3058
+count: 200
+text: 202 2685 349 0 abf13e6e159cb355320a45f05cccd411
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r202/3047
+END
+ENDREP
+id: 3-1.0.r202/3274
+type: dir
+pred: 3-1.0.r201/3285
+count: 201
+text: 202 3210 51 0 0e335be31794a0c8fee2b760279defae
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r202/3274
+END
+ENDREP
+id: 0.0.r202/3534
+type: dir
+pred: 0.0.r201/3545
+count: 202
+text: 202 3419 102 0 a77c100bcc4588af069fa9cb6196425a
+cpath: /
+copyroot: 0 /
+
+3l-196.0.r196/28675401 delete-dir false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Service/obj/Debug
+
+
+3534 3671

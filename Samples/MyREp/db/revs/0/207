@@ -1,0 +1,254 @@
+PLAIN
+END
+ENDREP
+id: by-196.0.r207/17
+type: dir
+pred: by-196.0.r196/28737154
+count: 1
+text: 207 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Repository/obj
+copyroot: 0 /
+
+PLAIN
+K 31
+CoE.Northwind.Repository.csproj
+V 27
+file ab-196.0.r196/28721323
+K 36
+CoE.Northwind.Repository.csproj.user
+V 27
+file ae-196.0.r196/28721662
+K 6
+Models
+V 26
+dir ag-196.0.r196/28722405
+K 10
+Properties
+V 26
+dir ak-196.0.r196/28723066
+K 7
+Queries
+V 26
+dir ao-196.0.r196/28724531
+K 12
+Repositories
+V 26
+dir aw-196.0.r196/28725208
+K 10
+app.config
+V 27
+file b0-196.0.r196/28725471
+K 3
+bin
+V 26
+dir b2-196.0.r196/28732466
+K 3
+obj
+V 20
+dir by-196.0.r207/17
+K 15
+packages.config
+V 27
+file cj-196.0.r196/28737408
+END
+ENDREP
+id: aa-196.0.r207/810
+type: dir
+pred: aa-196.0.r196/28738259
+count: 1
+text: 207 286 511 0 7e05192b38d485c0b82f05c032ec698b
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Repository
+copyroot: 0 /
+
+PLAIN
+K 18
+Northwind.Entities
+V 21
+dir 6p-196.0.r206/825
+K 20
+Northwind.Repository
+V 21
+dir aa-196.0.r207/810
+K 17
+Northwind.Service
+V 26
+dir cl-196.0.r196/28754075
+K 13
+Northwind.Web
+V 23
+dir eo-196.0.r197/10009
+END
+ENDREP
+id: 6o-196.0.r207/1304
+type: dir
+pred: 6o-196.0.r206/1317
+count: 4
+text: 207 1080 211 0 7160b485519f6c88dcde6d334e4794a5
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 25
+dir 8-196.0.r196/28648567
+K 10
+Frameworks
+V 21
+dir d-196.0.r204/1252
+K 6
+Sample
+V 22
+dir 6o-196.0.r207/1304
+END
+ENDREP
+id: 6-196.0.r207/1700
+type: dir
+pred: 6-196.0.r206/1713
+count: 10
+text: 207 1551 136 0 f867e0426ed286d7a81ee66ead342ea1
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository
+copyroot: 0 /
+
+PLAIN
+K 26
+01. MVC-Service-Repository
+V 21
+dir 6-196.0.r207/1700
+K 14
+02. MVC-API-EF
+V 26
+dir lb-196.0.r196/28804519
+K 31
+CoE.Technology.Architecture.sln
+V 27
+file lc-196.0.r196/28804672
+K 8
+packages
+V 26
+dir lg-196.0.r196/28899311
+END
+ENDREP
+id: 4-196.0.r207/2182
+type: dir
+pred: 4-196.0.r206/2194
+count: 11
+text: 207 1939 230 0 5b397c8b1b64b8e88b6c22759cdd86c3
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture
+copyroot: 0 /
+
+PLAIN
+K 27
+CoE.Technology.Architecture
+V 21
+dir 4-196.0.r207/2182
+END
+ENDREP
+id: 3-195.0.r207/2471
+type: dir
+pred: 3-195.0.r206/2483
+count: 12
+text: 207 2394 64 0 59c21dc73382f0fe04c8af9a7e0d235b
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 21
+dir 3-195.0.r207/2471
+END
+ENDREP
+id: 4-56.0.r207/2706
+type: dir
+pred: 4-56.0.r206/2718
+count: 13
+text: 207 2654 39 0 0d9791904788c2313e5fe2bc35a47ce5
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r194/22208
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r192/10351
+K 8
+4_Design
+V 23
+dir 2-56.0.r190/1088248
+K 13
+5_Development
+V 20
+dir 4-56.0.r207/2706
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 21
+dir 6-56.0.r180/75589
+END
+ENDREP
+id: 1-2.0.r207/3245
+type: dir
+pred: 1-2.0.r206/3257
+count: 205
+text: 207 2883 349 0 ac350a1549dc3ba2b517bb401acd5b6d
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r207/3245
+END
+ENDREP
+id: 3-1.0.r207/3472
+type: dir
+pred: 3-1.0.r206/3484
+count: 206
+text: 207 3408 51 0 20d98b5691e25fa88a2a9eca457d4fc9
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r207/3472
+END
+ENDREP
+id: 0.0.r207/3732
+type: dir
+pred: 0.0.r206/3744
+count: 207
+text: 207 3617 102 0 671ddde353acaaac04247d9337a8a88d
+cpath: /
+copyroot: 0 /
+
+bz-196.0.r196/28736834 delete-dir false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Repository/obj/Debug
+
+
+3732 3869

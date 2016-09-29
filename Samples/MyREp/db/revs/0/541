@@ -1,0 +1,105 @@
+id: 4-541.0.r541/0
+type: dir
+count: 0
+cpath: /trunk/AXA/Pre/1_Requirements/Internal
+copyroot: 0 /
+
+PLAIN
+K 10
+FromClient
+V 23
+dir 6-539.0.r540/111102
+K 8
+Internal
+V 18
+dir 4-541.0.r541/0
+END
+ENDREP
+id: 4-539.0.r541/198
+type: dir
+pred: 4-539.0.r540/111350
+count: 2
+text: 541 99 86 0 9f14ac39bf9ef110d68d4cd4ea725bfc
+cpath: /trunk/AXA/Pre/1_Requirements
+copyroot: 0 /
+
+PLAIN
+K 14
+1_Requirements
+V 20
+dir 4-539.0.r541/198
+END
+ENDREP
+id: 2-539.0.r541/430
+type: dir
+pred: 2-539.0.r540/111590
+count: 2
+text: 541 367 50 0 034573c841a49eea395460188f9047c7
+cpath: /trunk/AXA/Pre
+copyroot: 0 /
+
+PLAIN
+K 3
+Pre
+V 20
+dir 2-539.0.r541/430
+END
+ENDREP
+id: 1-537.0.r541/636
+type: dir
+pred: 1-537.0.r540/111803
+count: 3
+text: 541 585 38 0 d2de4683e5c42b4e86cb2a045c3b944f
+cpath: /trunk/AXA
+copyroot: 0 /
+
+PLAIN
+K 3
+AXA
+V 20
+dir 1-537.0.r541/636
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 21
+dir 1-2.0.r533/677758
+END
+ENDREP
+id: 3-1.0.r541/926
+type: dir
+pred: 3-1.0.r540/112100
+count: 540
+text: 541 787 126 0 51cb06b1b666d252af31047f301204b6
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 18
+dir 3-1.0.r541/926
+END
+ENDREP
+id: 0.0.r541/1186
+type: dir
+pred: 0.0.r540/112367
+count: 541
+text: 541 1072 101 0 aebfca9629731b7247d67ba21cad99be
+cpath: /
+copyroot: 0 /
+
+_4.0.t540-f2 add-dir false false /trunk/AXA/Pre/1_Requirements/Internal
+
+
+1186 1325

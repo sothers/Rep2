@@ -1,0 +1,175 @@
+id: 6-459.0.r459/0
+type: file
+count: 0
+text: 457 0 164602 173371 80ea7c688b36c1e8996a5413ff4b49db ac08a662630475f8a6911e723f07ce72cdc23d8f 458-cq/_8
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Willis-BeforeDev/5_Development/Database/VSEG-FMS Sync-up/VSEG-FMS_Sync-up.xlsx
+copyroot: 0 /
+
+PLAIN
+K 21
+VSEG-FMS_Sync-up.xlsx
+V 19
+file 6-459.0.r459/0
+END
+ENDREP
+id: 4-459.0.r459/381
+type: dir
+count: 0
+text: 459 312 56 0 b9b12cd7eb650b9582f31cbaa7e45062
+cpath: /trunk/Willis-BeforeDev/5_Development/Database/VSEG-FMS Sync-up
+copyroot: 0 /
+
+PLAIN
+K 24
+CompanyReceiptUpload.sql
+V 21
+file 4-370.0.r384/334
+K 23
+GeneratePreReceipts.sql
+V 21
+file 5-311.0.r398/524
+K 28
+GeneratePreReceipts_Test.sql
+V 21
+file 4-325.0.r357/488
+K 16
+GetDateRange.sql
+V 21
+file 4-321.0.r337/361
+K 22
+SearchBusinessCode.sql
+V 23
+file 4-402.0.r428/25785
+K 16
+VSEG-FMS Sync-up
+V 20
+dir 4-459.0.r459/381
+END
+ENDREP
+id: 3-311.0.r459/904
+type: dir
+pred: 3-311.0.r458/297
+count: 19
+text: 459 559 332 0 8eef0b96bc1ff6da8e37962a05f7e741
+cpath: /trunk/Willis-BeforeDev/5_Development/Database
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 22
+dir 3-195.0.r214/85164
+K 8
+Database
+V 20
+dir 3-311.0.r459/904
+K 10
+SourceCode
+V 22
+dir 3-270.0.r375/36643
+END
+ENDREP
+id: 4-56.0.r459/1226
+type: dir
+pred: 4-56.0.r458/620
+count: 61
+text: 459 1090 123 0 304c9e81bb59727d1bb57bfa919380fd
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r436/597615
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r455/34263
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r435/15086
+K 8
+4_Design
+V 20
+dir 2-56.0.r450/3635
+K 13
+5_Development
+V 20
+dir 4-56.0.r459/1226
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+K 15
+Willis-Prj.xlsx
+V 23
+file 2-373.0.r456/40740
+END
+ENDREP
+id: 1-2.0.r459/1815
+type: dir
+pred: 1-2.0.r458/1209
+count: 453
+text: 459 1403 399 0 df4abc021ba75285913c2e0c8ce77e37
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r459/1815
+END
+ENDREP
+id: 3-1.0.r459/2081
+type: dir
+pred: 3-1.0.r458/1476
+count: 458
+text: 459 1978 90 0 1884dadee3fb0c3277bf12c51a5000c5
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r459/2081
+END
+ENDREP
+id: 0.0.r459/2341
+type: dir
+pred: 0.0.r458/1738
+count: 459
+text: 459 2226 102 0 ecaafe45bc7848eb25ece047a794f058
+cpath: /
+copyroot: 0 /
+
+_4.0.t458-cq add-dir false false /trunk/Willis-BeforeDev/5_Development/Database/VSEG-FMS Sync-up
+
+_6.0.t458-cq add-file true true /trunk/Willis-BeforeDev/5_Development/Database/VSEG-FMS Sync-up/VSEG-FMS_Sync-up.xlsx
+
+
+2341 2478

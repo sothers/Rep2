@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+25110
+K 8
+svn:date
+V 27
+2015-05-15T06:38:22.118245Z
+K 7
+svn:log
+V 83
+Changed the sequence of SQL files to be executed 
+Added script files related to Job
+END

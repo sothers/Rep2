@@ -1,0 +1,184 @@
+id: b-491.0-512.r512/0
+type: file
+pred: b-491.0.r491/2137
+count: 1
+text: 485 186 25 2950 82e26a95af5c4d4f03911a1f6f8ef7c1 5f4ab1a3377bca57d99a20f5fcfcf11263708461 490-dn/_h
+cpath: /trunk/Willis-BeforeDev/8_Release/FleetManagementSystemDeployment/Database/6_FMS_WillisFMS_JobFMSReceiptStatusUpdateAsPerVSEG.sql
+copyfrom: 511 /trunk/Willis-BeforeDev/8_Release/FleetManagementSystemDeployment/Database/6_FMS_JobFMSReceiptStatusUpdateAsPerVSEG.sql
+
+PLAIN
+K 16
+1_VSEG_Views.sql
+V 21
+file 6-491.0.r491/600
+K 35
+2_FMS_LinkedServer_LVSEG_Script.sql
+V 21
+file 7-491.0.r491/918
+K 19
+3_FMS_DB_Script.sql
+V 19
+file 8-491.0.r495/0
+K 28
+4_FMS_DefaultData_Script.sql
+V 21
+file 9-491.0.r495/344
+K 48
+5_FMS_WillisFMS_JobRecordStatusUpdate_Script.sql
+V 23
+file a-491.0-511.r511/0
+K 54
+6_FMS_WillisFMS_JobFMSReceiptStatusUpdateAsPerVSEG.sql
+V 23
+file b-491.0-512.r512/0
+END
+ENDREP
+id: 5-479.0.r512/862
+type: dir
+pred: 5-479.0.r511/839
+count: 6
+text: 512 445 404 0 5379639364510d04750f44e1bdf3926c
+cpath: /trunk/Willis-BeforeDev/8_Release/FleetManagementSystemDeployment/Database
+copyroot: 0 /
+
+PLAIN
+K 8
+Database
+V 20
+dir 5-479.0.r512/862
+K 35
+FleetManagementSystemDeployment.zip
+V 24
+file 4-496.0.r507/255560
+K 43
+FleetManagementSystem_Deployment_Guide.docx
+V 19
+file 4-492.0.r492/0
+K 3
+Web
+V 22
+dir e-479.0.r479/27033
+END
+ENDREP
+id: 3-479.0.r512/1312
+type: dir
+pred: 3-479.0.r511/1290
+count: 10
+text: 512 1075 224 0 14921cafa59c12a4d5a5a8843270b11c
+cpath: /trunk/Willis-BeforeDev/8_Release/FleetManagementSystemDeployment
+copyroot: 0 /
+
+PLAIN
+K 31
+FleetManagementSystemDeployment
+V 21
+dir 3-479.0.r512/1312
+END
+ENDREP
+id: 2-473.0.r512/1601
+type: dir
+pred: 2-473.0.r511/1580
+count: 11
+text: 512 1520 68 0 34176b39f48f89904270501870bdcc35
+cpath: /trunk/Willis-BeforeDev/8_Release
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r509/297850
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r510/41572
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r435/15086
+K 8
+4_Design
+V 20
+dir 2-56.0.r494/2771
+K 13
+5_Development
+V 20
+dir 4-56.0.r506/1882
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+8_Release
+V 21
+dir 2-473.0.r512/1601
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+K 15
+Willis-Prj.xlsx
+V 22
+file 2-373.0.r497/7989
+END
+ENDREP
+id: 1-2.0.r512/2228
+type: dir
+pred: 1-2.0.r511/2209
+count: 506
+text: 512 1776 439 0 d7cdfec40b95a3f5daee37a02da0a9b3
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r512/2228
+END
+ENDREP
+id: 3-1.0.r512/2494
+type: dir
+pred: 3-1.0.r511/2476
+count: 511
+text: 512 2391 90 0 75a30a1e1aae9706756a17c0db7b11d8
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r512/2494
+END
+ENDREP
+id: 0.0.r512/2754
+type: dir
+pred: 0.0.r511/2737
+count: 512
+text: 512 2639 102 0 d593e7843ff7a4506383238a55a7f10a
+cpath: /
+copyroot: 0 /
+
+b-491.0.r491/2137 delete-file false false /trunk/Willis-BeforeDev/8_Release/FleetManagementSystemDeployment/Database/6_FMS_JobFMSReceiptStatusUpdateAsPerVSEG.sql
+
+b-491._0.t511-e8 add-file false false /trunk/Willis-BeforeDev/8_Release/FleetManagementSystemDeployment/Database/6_FMS_WillisFMS_JobFMSReceiptStatusUpdateAsPerVSEG.sql
+511 /trunk/Willis-BeforeDev/8_Release/FleetManagementSystemDeployment/Database/6_FMS_JobFMSReceiptStatusUpdateAsPerVSEG.sql
+
+2754 2891

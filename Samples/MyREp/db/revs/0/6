@@ -1,0 +1,86 @@
+id: 3-6.0.r6/0
+type: dir
+count: 0
+cpath: /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient
+copyroot: 0 /
+
+PLAIN
+K 19
+DocumentsFromClient
+V 14
+dir 3-6.0.r6/0
+END
+ENDREP
+id: 2-3.0.r6/176
+type: dir
+pred: 2-3.0.r3/0
+count: 1
+text: 6 114 49 0 f3bb9d0802b0a55ddcd5f85387b681c5
+cpath: /trunk/Willis-BeforeDev/2_Requirement
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 14
+dir 2-4.0.r4/0
+K 13
+2_Requirement
+V 16
+dir 2-3.0.r6/176
+K 10
+3_Analysis
+V 14
+dir 2-5.0.r5/0
+END
+ENDREP
+id: 1-2.0.r6/469
+type: dir
+pred: 1-2.0.r5/219
+count: 4
+text: 6 339 117 0 c752b4e15ee8adea8ed721f38f5dedde
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 16
+dir 1-2.0.r6/469
+END
+ENDREP
+id: 3-1.0.r6/682
+type: dir
+pred: 3-1.0.r5/431
+count: 5
+text: 6 621 48 0 47e59220fed3f0f88e8239e66c7b4f96
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 16
+dir 3-1.0.r6/682
+END
+ENDREP
+id: 0.0.r6/928
+type: dir
+pred: 0.0.r5/677
+count: 6
+text: 6 816 99 0 a2bf4cca412ecd827343c6406103acce
+cpath: /
+copyroot: 0 /
+
+_3.0.t5-5 add-dir false false /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient
+
+
+928 1053

@@ -1,0 +1,166 @@
+id: 5-438.0.r438/0
+type: file
+count: 0
+text: 435 0 11732 26401 1caed3a363d5c1a2004b7676076a4926 3bf38a1a01b863bbe00266051624c634f5cbf7a3 437-c5/_7
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Willis-BeforeDev/2_Requirement/Internal/20150331/FM_UC_4.2_DataComparision.docx
+copyroot: 0 /
+
+PLAIN
+K 44
+FM_UC_2 2_Uploading files for new fleet.docx
+V 24
+file 7-437.0.r437/258775
+K 30
+FM_UC_4.2_DataComparision.docx
+V 19
+file 5-438.0.r438/0
+END
+ENDREP
+id: 5-437.0.r438/469
+type: dir
+pred: 5-437.0.r437/259204
+count: 1
+text: 438 311 145 0 3248c1536806e1781970fd80b8010d4c
+cpath: /trunk/Willis-BeforeDev/2_Requirement/Internal/20150331
+copyroot: 0 /
+
+PLAIN
+K 8
+20150331
+V 20
+dir 5-437.0.r438/469
+K 8
+20150402
+V 23
+dir 9-437.0.r437/260243
+END
+ENDREP
+id: 3-437.0.r438/764
+type: dir
+pred: 3-437.0.r437/260521
+count: 1
+text: 438 666 85 0 da197a457c928a64336edda3750e30da
+cpath: /trunk/Willis-BeforeDev/2_Requirement/Internal
+copyroot: 0 /
+
+PLAIN
+K 19
+DocumentsFromClient
+V 20
+dir 3-6.0.r167/10389
+K 11
+From Willis
+V 22
+dir 3-48.0.r429/178632
+K 68
+Functional Specifications - Willis Fleet Management Systems V1.0.doc
+V 24
+file 3-168.0.r168/944560
+K 8
+Internal
+V 20
+dir 3-437.0.r438/764
+END
+ENDREP
+id: 2-3.0.r438/1207
+type: dir
+pred: 2-3.0.r437/260947
+count: 70
+text: 438 951 243 0 6803380e8a656d79642e2930de77050e
+cpath: /trunk/Willis-BeforeDev/2_Requirement
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r436/597615
+K 13
+2_Requirement
+V 19
+dir 2-3.0.r438/1207
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r435/15086
+K 8
+4_Design
+V 21
+dir 2-56.0.r432/12862
+K 13
+5_Development
+V 21
+dir 4-56.0.r428/26677
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+K 15
+Willis-Prj.xlsx
+V 23
+file 2-373.0.r428/26857
+END
+ENDREP
+id: 1-2.0.r438/1797
+type: dir
+pred: 1-2.0.r437/261544
+count: 432
+text: 438 1384 400 0 84cac71002e972de5984b2602b06f71b
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r438/1797
+END
+ENDREP
+id: 3-1.0.r438/2065
+type: dir
+pred: 3-1.0.r437/261818
+count: 437
+text: 438 1962 90 0 6f1e4a3c3da57e62ffcea63cb5cda7ec
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r438/2065
+END
+ENDREP
+id: 0.0.r438/2327
+type: dir
+pred: 0.0.r437/262086
+count: 438
+text: 438 2212 102 0 e6b332d49a18db2da76e45e4e10fd20c
+cpath: /
+copyroot: 0 /
+
+_5.0.t437-c5 add-file true true /trunk/Willis-BeforeDev/2_Requirement/Internal/20150331/FM_UC_4.2_DataComparision.docx
+
+
+2327 2466

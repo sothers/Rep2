@@ -1,0 +1,297 @@
+id: 5-88.0-172.r172/0
+type: file
+pred: 5-88.0.r140/117244
+count: 5
+text: 140 912 435 36616 9910644b1341ceb01d5cb5bdab4999df 5f50f102d1d79718576bbfda1fa1cef0653af8d6 139-3v/_8
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Willis-BeforeDev/3_Analysis/20141111/Usecases/FM_UC_4.8_Generate Pre-Receipt.docx
+copyfrom: 171 /trunk/Willis-BeforeDev/3_Analysis/20141111/Usecases/FM_UC_4.8_Split receipt.docx
+
+PLAIN
+K 20
+FM_UC_1.1_Login.docx
+V 21
+file 5-53.0.r135/6324
+K 26
+FM_UC_2.1_CreateFleet.docx
+V 23
+file 5-50.0.r130/211094
+K 44
+FM_UC_2.2_Uploading files for new fleet.docx
+V 25
+file 8-42.0-44.r141/38495
+K 26
+FM_UC_2.3_SearchFleet.docx
+V 23
+file 7-50.0.r133/259813
+K 34
+FM_UC_2.4_NewFileUploadStatus.docx
+V 22
+file 5-68.0.r131/54014
+K 50
+FM_UC_3.1_Uploading files for modifying fleet.docx
+V 22
+file 7-68.0.r141/38950
+K 37
+FM_UC_3.2_ModifyFileUploadStatus.docx
+V 22
+file 8-68.0.r131/54357
+K 30
+FM_UC_4.10_Modify Receipt.docx
+V 22
+file 5-98.0.r141/39309
+K 48
+FM_UC_4.11_Find Missing Receipt of a policy.docx
+V 23
+file 5-99.0.r140/115150
+K 38
+FM_UC_4.12_Uploading Receipt File.docx
+V 23
+file 5-113.0.r141/39648
+K 33
+FM_UC_4.1_View Fleet Details.docx
+V 23
+file 5-69.0.r133/261197
+K 30
+FM_UC_4.2_DataComparision.docx
+V 22
+file 5-74.0.r154/32262
+K 35
+FM_UC_4.3_Data Export in Excel.docx
+V 23
+file 5-84.0.r140/115855
+K 41
+FM_UC_4.5_ViewAndModifyPolicyDetails.docx
+V 23
+file 5-90.0.r140/116200
+K 41
+FM_UC_4.6_Search receipt of a policy.docx
+V 22
+file 5-86.0.r154/32601
+K 39
+FM_UC_4.7_View receipt of a policy.docx
+V 23
+file 5-87.0.r140/116896
+K 35
+FM_UC_4.8_Generate Pre-Receipt.docx
+V 22
+file 5-88.0-172.r172/0
+K 25
+FM_UC_4.9_Remittance.docx
+V 21
+file 7-99.0.r162/9448
+K 48
+FM_UC_5.1_Daily VisualSEG Sync-up (DB View).docx
+V 24
+file 5-100.0.r101/168888
+K 30
+FM_UC_6.1_TemplateMapping.docx
+V 21
+file 7-74.0.r74/77915
+K 32
+FM_UC_6.2_ConfigureTemplate.docx
+V 23
+file 8-74.0.r101/169247
+K 37
+FM_UC_6.3_ConfigureCustomeFields.docx
+V 23
+file 9-74.0.r101/169588
+K 26
+FM_UC_7.1_Audit Trail.docx
+V 23
+file 7-100.0.r100/30637
+K 47
+FM_UC_8.1_Access of VSEG Data Through View.docx
+V 21
+file 5-93.0.r93/14358
+K 29
+FleetMgmtSystem_Usecases.xlsx
+V 21
+file 6-42.0.r42/21748
+K 12
+OffshoreTeam
+V 22
+dir 5-82.0.r133/264555
+K 36
+Pre-Receipt_Generation_Scenario.xlsx
+V 23
+file 5-128.0.r169/48687
+END
+ENDREP
+id: 4-42.0.r172/2299
+type: dir
+pred: 4-42.0.r169/50899
+count: 50
+text: 172 423 1863 0 9471449668d579d10fe8be5781b23444
+cpath: /trunk/Willis-BeforeDev/3_Analysis/20141111/Usecases
+copyroot: 0 /
+
+PLAIN
+K 16
+Balsamiq-Mockups
+V 22
+dir 4-119.0.r159/17169
+K 13
+BusinessRules
+V 21
+dir 4-123.0.r155/8897
+K 13
+FileStructure
+V 22
+dir 4-116.0.r147/32496
+K 20
+FleetMgmtSystem.xlsx
+V 22
+file a-29.0.r102/72221
+K 20
+ListOf Usecases.xlsx
+V 22
+file 4-47.0.r102/72541
+K 8
+Pictures
+V 21
+dir 4-145.0.r146/3689
+K 9
+Prototype
+V 22
+dir 4-49.0.r171/248620
+K 23
+Receipts_FlowChart.xlsx
+V 23
+file 4-102.0.r107/38130
+K 19
+SystemMessages.xlsx
+V 22
+file 4-144.0.r144/6711
+K 8
+Usecases
+V 20
+dir 4-42.0.r172/2299
+K 25
+Willis Business Flow.docx
+V 23
+file 4-107.0.r107/38455
+K 40
+WillisFleetMgmt_SiteScreens_SiteMap.xlsx
+V 21
+file 4-41.0.r62/10364
+END
+ENDREP
+id: 3-29.0.r172/3126
+type: dir
+pred: 3-29.0.r171/249453
+count: 102
+text: 172 2493 620 0 79b0742feb3bd07a74696efd5d0b529c
+cpath: /trunk/Willis-BeforeDev/3_Analysis/20141111
+copyroot: 0 /
+
+PLAIN
+K 8
+20141111
+V 20
+dir 3-29.0.r172/3126
+K 20
+Hexaware-Willis.xlsx
+V 22
+file 3-67.0.r169/51919
+K 26
+List of Pending Items.xlsx
+V 22
+file 3-153.0.r157/4205
+K 26
+UseCaseApprovalStatus.xlsx
+V 23
+file 5-153.0.r153/17405
+END
+ENDREP
+id: 2-5.0.r172/3544
+type: dir
+pred: 2-5.0.r171/249876
+count: 110
+text: 172 3313 218 0 ccaa6bc3a9e3c2921d4ccf3a24f6c19f
+cpath: /trunk/Willis-BeforeDev/3_Analysis
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 21
+dir 2-3.0.r170/554053
+K 10
+3_Analysis
+V 19
+dir 2-5.0.r172/3544
+K 8
+4_Design
+V 22
+dir 2-56.0.r165/799834
+K 13
+5_Development
+V 20
+dir 4-56.0.r56/34582
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 9
+Reporting
+V 21
+dir 6-56.0.r139/18654
+END
+ENDREP
+id: 1-2.0.r172/4032
+type: dir
+pred: 1-2.0.r171/250369
+count: 170
+text: 172 3720 299 0 6a444b59b4e20276eefd7f4a1421b6d2
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r172/4032
+END
+ENDREP
+id: 3-1.0.r172/4261
+type: dir
+pred: 3-1.0.r171/250604
+count: 171
+text: 172 4197 51 0 a16955ed8199d6463854c33cf95c268b
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r172/4261
+END
+ENDREP
+id: 0.0.r172/4523
+type: dir
+pred: 0.0.r171/250872
+count: 172
+text: 172 4408 102 0 c9bf736f1e1a51ad9c7682e2766fe394
+cpath: /
+copyroot: 0 /
+
+5-88._0.t171-4r add-file false false /trunk/Willis-BeforeDev/3_Analysis/20141111/Usecases/FM_UC_4.8_Generate Pre-Receipt.docx
+171 /trunk/Willis-BeforeDev/3_Analysis/20141111/Usecases/FM_UC_4.8_Split receipt.docx
+5-88.0.r140/117244 delete-file false false /trunk/Willis-BeforeDev/3_Analysis/20141111/Usecases/FM_UC_4.8_Split receipt.docx
+
+
+4523 4662

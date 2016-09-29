@@ -1,0 +1,147 @@
+PLAIN
+K 24
+CompanyReceiptUpload.sql
+V 21
+file 4-370.0.r384/334
+K 23
+GeneratePreReceipts.sql
+V 21
+file 5-311.0.r398/524
+K 28
+GeneratePreReceipts_Test.sql
+V 21
+file 4-325.0.r357/488
+K 16
+GetDateRange.sql
+V 21
+file 4-321.0.r337/361
+K 22
+SearchBusinessCode.sql
+V 23
+file 4-402.0.r428/25785
+END
+ENDREP
+id: 3-311.0.r458/297
+type: dir
+pred: 3-311.0.r457/165269
+count: 18
+text: 458 0 284 0 ba0a4c93ba3564117c6ad08726d6f491
+cpath: /trunk/Willis-BeforeDev/5_Development/Database
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 22
+dir 3-195.0.r214/85164
+K 8
+Database
+V 20
+dir 3-311.0.r458/297
+K 10
+SourceCode
+V 22
+dir 3-270.0.r375/36643
+END
+ENDREP
+id: 4-56.0.r458/620
+type: dir
+pred: 4-56.0.r457/165602
+count: 60
+text: 458 484 123 0 0eca3720be4292708765aff39123406b
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r436/597615
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r455/34263
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r435/15086
+K 8
+4_Design
+V 20
+dir 2-56.0.r450/3635
+K 13
+5_Development
+V 19
+dir 4-56.0.r458/620
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+K 15
+Willis-Prj.xlsx
+V 23
+file 2-373.0.r456/40740
+END
+ENDREP
+id: 1-2.0.r458/1209
+type: dir
+pred: 1-2.0.r457/166199
+count: 452
+text: 458 798 398 0 b3f040555454e2b8d69785f6b0ab60c4
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r458/1209
+END
+ENDREP
+id: 3-1.0.r458/1476
+type: dir
+pred: 3-1.0.r457/166472
+count: 457
+text: 458 1373 90 0 719f148f048fcdd7d4bf929ffc6c9b7f
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r458/1476
+END
+ENDREP
+id: 0.0.r458/1738
+type: dir
+pred: 0.0.r457/166739
+count: 458
+text: 458 1623 102 0 56a71ac7764bb7e4c5d283a2a1de8617
+cpath: /
+copyroot: 0 /
+
+4-457.0.r457/164615 delete-file false false /trunk/Willis-BeforeDev/5_Development/Database/VSEG-FMS_Sync-up.xlsx
+
+
+1738 1877

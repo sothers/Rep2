@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+25110
+K 8
+svn:date
+V 27
+2015-06-29T05:43:47.049436Z
+K 7
+svn:log
+V 157
+Changes done in View to read the data from Intermediate database instead of directly accessing VSEG database.
+Changed the name of Jobs as per Willis request.
+END

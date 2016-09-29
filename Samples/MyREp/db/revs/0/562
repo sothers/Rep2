@@ -1,0 +1,60 @@
+id: 1-562.0.r562/0
+type: dir
+count: 0
+cpath: /trunk/Hexaware
+copyroot: 0 /
+
+PLAIN
+K 3
+AXA
+V 23
+dir 1-537.0.r561/513386
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 8
+Hexaware
+V 18
+dir 1-562.0.r562/0
+K 16
+Willis-BeforeDev
+V 20
+dir 1-2.0.r551/28030
+END
+ENDREP
+id: 3-1.0.r562/254
+type: dir
+pred: 3-1.0.r561/513685
+count: 561
+text: 562 76 165 0 56a084577f8036a748d5e98715757304
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 18
+dir 3-1.0.r562/254
+END
+ENDREP
+id: 0.0.r562/513
+type: dir
+pred: 0.0.r561/513954
+count: 562
+text: 562 399 101 0 11a51680daa39732415b6da5250133dc
+cpath: /
+copyroot: 0 /
+
+_1.0.t561-fn add-dir false false /trunk/Hexaware
+
+
+513 650

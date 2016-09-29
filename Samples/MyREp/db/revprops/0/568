@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 5
+25110
+K 8
+svn:date
+V 27
+2015-09-14T03:47:31.612974Z
+K 7
+svn:log
+V 594
+Updated to resolve following issues.
+1. When the project is opened, it doesn't displays the values in "Project Properties" form.
+2. Sequence of Analysis section is not proper. It should be as per the items present in "Enable Analysis" field.
+3. Changes done in the "Project Properties" form values does not saved in application.
+5. On "Coding Guideline Analysis for Checkpoint" screen, user cannot increase the column width to see the full details mentioned in the columns.
+6. Detail tool tip doesn't get displayed on mouse over of "File Name" column cell on "Code Complexity Analysis" report.
+
+END

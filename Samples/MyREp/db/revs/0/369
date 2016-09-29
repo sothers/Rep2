@@ -1,0 +1,328 @@
+PLAIN
+K 15
+EditorTemplates
+V 27
+dir 100-275.0.r275/10532324
+K 12
+Error.cshtml
+V 26
+file as-270.0.r270/5124524
+K 14
+_Layout.cshtml
+V 24
+file au-270.0.r353/40405
+K 20
+_LoginPartial.cshtml
+V 26
+file av-270.0.r270/5125066
+END
+ENDREP
+id: ar-270.0.r369/229
+type: dir
+pred: ar-270.0.r353/40980
+count: 13
+text: 369 0 216 0 f5995b79eebeb8fc7843bfdfe8ec12ad
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode/Willis.FMS.Web/Views/Shared
+copyroot: 0 /
+
+PLAIN
+K 7
+Account
+V 25
+dir aa-270.0.r270/5123150
+K 4
+Home
+V 23
+dir am-270.0.r359/29093
+K 6
+Shared
+V 21
+dir ar-270.0.r369/229
+K 10
+Web.config
+V 27
+file aw-270.0.r275/10533006
+K 17
+_ViewStart.cshtml
+V 26
+file ax-270.0.r270/5125981
+END
+ENDREP
+id: a9-270.0.r369/687
+type: dir
+pred: a9-270.0.r359/29556
+count: 15
+text: 369 447 227 0 40a8664a502371c15604b4021df15ffd
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode/Willis.FMS.Web/Views
+copyroot: 0 /
+
+PLAIN
+K 8
+App_Data
+V 25
+dir 4h-270.0.r270/5061464
+K 19
+App_GlobalResources
+V 23
+dir 4j-270.0.r368/66670
+K 9
+App_Start
+V 23
+dir 4n-270.0.r368/67585
+K 5
+Areas
+V 23
+dir 4w-270.0.r368/89849
+K 7
+Content
+V 23
+dir 6r-270.0.r359/25839
+K 11
+Controllers
+V 23
+dir 9b-270.0.r353/39509
+K 5
+Error
+V 25
+dir 9f-270.0.r270/5112071
+K 7
+Filters
+V 25
+dir 9i-270.0.r270/5112264
+K 11
+Global.asax
+V 26
+file 9j-270.0.r270/5112403
+K 14
+Global.asax.cs
+V 24
+file 9k-270.0.r310/68685
+K 6
+Helper
+V 23
+dir ie-275.0.r353/40188
+K 6
+Images
+V 23
+dir 9l-270.0.r359/26907
+K 6
+Models
+V 23
+dir a1-270.0.r320/48336
+K 10
+Properties
+V 25
+dir a5-270.0.r270/5119559
+K 7
+Scripts
+V 23
+dir ii-275.0.r368/92939
+K 21
+Unity.Mvc3.README.txt
+V 26
+file a8-270.0.r270/5119757
+K 11
+UploadFiles
+V 23
+dir 4e-278.0.r312/31063
+K 5
+Views
+V 21
+dir a9-270.0.r369/687
+K 16
+Web.Debug.config
+V 26
+file ay-270.0.r270/5126685
+K 18
+Web.Release.config
+V 26
+file az-270.0.r270/5126946
+K 10
+Web.config
+V 24
+file b0-270.0.r353/41663
+K 21
+Willis.FMS.Web.csproj
+V 24
+file b1-270.0.r368/93159
+K 3
+bin
+V 25
+dir b2-270.0.r270/5127732
+K 11
+favicon.ico
+V 26
+file b3-270.0.r270/5127867
+K 3
+obj
+V 22
+dir x-353.0.r353/42227
+K 15
+packages.config
+V 24
+file b4-270.0.r310/72873
+END
+ENDREP
+id: 4g-270.0.r369/2105
+type: dir
+pred: 4g-270.0.r368/94655
+count: 18
+text: 369 900 1192 0 2ef13583368fd72a53077da53ae31881
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode/Willis.FMS.Web
+copyroot: 0 /
+
+PLAIN
+K 10
+Frameworks
+V 25
+dir 5-270.0.r275/10043292
+K 10
+References
+V 25
+dir 4-275.0.r275/10043888
+K 19
+Willis.FMS.Entities
+V 23
+dir 1x-270.0.r368/56944
+K 21
+Willis.FMS.Repository
+V 25
+dir 37-270.0.r270/5050098
+K 18
+Willis.FMS.Service
+V 23
+dir 3e-270.0.r368/65709
+K 14
+Willis.FMS.Web
+V 22
+dir 4g-270.0.r369/2105
+K 14
+Willis.FMS.sln
+V 26
+file b5-270.0.r270/5129750
+K 8
+packages
+V 26
+dir b6-270.0.r346/68757264
+END
+ENDREP
+id: 3-270.0.r369/2735
+type: dir
+pred: 3-270.0.r368/95289
+count: 19
+text: 369 2314 408 0 9739b4dfd3fd2d3bd8a9920bc8f298dc
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 22
+dir 3-195.0.r214/85164
+K 8
+Database
+V 20
+dir 3-311.0.r357/937
+K 10
+SourceCode
+V 21
+dir 3-270.0.r369/2735
+END
+ENDREP
+id: 4-56.0.r369/3062
+type: dir
+pred: 4-56.0.r368/95619
+count: 50
+text: 369 2927 122 0 87db330a39b28acbc3c3ce5c60955fbf
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r328/234962
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r355/23674
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r249/29806
+K 8
+4_Design
+V 21
+dir 2-56.0.r367/50004
+K 13
+5_Development
+V 20
+dir 4-56.0.r369/3062
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+END
+ENDREP
+id: 1-2.0.r369/3604
+type: dir
+pred: 1-2.0.r368/96164
+count: 363
+text: 369 3241 350 0 812f8cf87df0299b4dfd2cfebd30336b
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r369/3604
+END
+ENDREP
+id: 3-1.0.r369/3871
+type: dir
+pred: 3-1.0.r368/96434
+count: 368
+text: 369 3768 90 0 3c0dc0f2ca427c8fa881d9a008c0f600
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r369/3871
+END
+ENDREP
+id: 0.0.r369/4132
+type: dir
+pred: 0.0.r368/96698
+count: 369
+text: 369 4017 102 0 83c1333c38e69d60e592b21d178c8cc2
+cpath: /
+copyroot: 0 /
+
+7-276.0.r276/0 delete-file false false /trunk/Willis-BeforeDev/5_Development/SourceCode/Willis.FMS.Web/Views/Shared/_Layout - Copy.cshtml
+
+
+4132 4270

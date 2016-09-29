@@ -1,0 +1,173 @@
+id: b-21.0-25.r25/0
+type: file
+pred: b-21.0.r21/1877029
+count: 1
+text: 21 1799017 76321 87495 bc5c3273971cdca31d477cdb6a40af57 7936899b32dc6c10747b3489a7285be5c63b33e0 20-k/_g
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/SOW/WILLIS-Estimation_ScheduleCost V2_updatedTimeLines.xlsx
+copyfrom: 24 /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/WILLIS-Estimation_ScheduleCost V2_updatedTimeLines.xlsx
+
+PLAIN
+K 63
+Annexure_Willis_Fleet_Management_Requirement Mappings v1.1.xlsx
+V 20
+file 4-21.0-23.r23/0
+K 71
+Hexaware Response_Willis_Fleet Management System_amended_2014.10.10.doc
+V 20
+file 6-21.0-24.r24/0
+K 59
+Hexaware_Willis Iberia_Fleet Management System_SoW_v0.1.doc
+V 23
+file 9-21.0.r21/1876383
+K 55
+WILLIS-Estimation_ScheduleCost V2_updatedTimeLines.xlsx
+V 20
+file b-21.0-25.r25/0
+END
+ENDREP
+id: 8-21.0.r25/880
+type: dir
+pred: 8-21.0.r24/823
+count: 3
+text: 25 484 383 0 12f9e20c372c9faab6f5894249f06e30
+cpath: /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/SOW
+copyroot: 0 /
+
+PLAIN
+K 47
+DRU_PR_FLO_Flotas y Renting v.3_English_V3.docx
+V 21
+file 4-7.0.r7/1161302
+K 19
+Ficheros Flotas.zip
+V 21
+file 6-7.0.r7/1161634
+K 22
+FleetMgmt_Queries.xlsx
+V 21
+file 7-7.0.r12/294315
+K 30
+Hexaware Schedule_Addedum.docx
+V 23
+file 7-21.0.r21/1876063
+K 65
+Preguntas y Respuesta a la RFP Gestión de Flotas_Translated.docx
+V 19
+file 8-7.0.r9/67915
+K 44
+RFP_PR_FLO_Flotas y Renting v.3_English.docx
+V 21
+file 9-7.0.r7/1162593
+K 6
+SA.zip
+V 20
+file a-7.0.r8/121022
+K 3
+SOW
+V 18
+dir 8-21.0.r25/880
+K 18
+Sample Input Files
+V 21
+dir 4-12.0.r12/296411
+K 60
+Willis Fleet Management RFP Presentation _ Final_260914.pptx
+V 23
+file 4-10.0.r10/2024211
+K 41
+Willis Fleet Management System v 0.3.pptx
+V 23
+file 4-11.0.r11/1496797
+END
+ENDREP
+id: 3-6.0.r25/1808
+type: dir
+pred: 3-6.0.r24/1841
+count: 10
+text: 25 1075 720 0 bf539135a2640579d94833504d8f6474
+cpath: /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient
+copyroot: 0 /
+
+PLAIN
+K 19
+DocumentsFromClient
+V 18
+dir 3-6.0.r25/1808
+END
+ENDREP
+id: 2-3.0.r25/2067
+type: dir
+pred: 2-3.0.r24/2099
+count: 11
+text: 25 2001 53 0 b4710617771dbc5c25c2b24f2b23dd9e
+cpath: /trunk/Willis-BeforeDev/2_Requirement
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 18
+dir 2-4.0.r22/6217
+K 13
+2_Requirement
+V 18
+dir 2-3.0.r25/2067
+K 10
+3_Analysis
+V 14
+dir 2-5.0.r5/0
+END
+ENDREP
+id: 1-2.0.r25/2375
+type: dir
+pred: 1-2.0.r24/2407
+count: 23
+text: 25 2239 123 0 7344454fc41517a9dd2492143c216d14
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 18
+dir 1-2.0.r25/2375
+END
+ENDREP
+id: 3-1.0.r25/2597
+type: dir
+pred: 3-1.0.r24/2629
+count: 24
+text: 25 2534 50 0 574242052a99261959f6d80fecad0a68
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 18
+dir 3-1.0.r25/2597
+END
+ENDREP
+id: 0.0.r25/2852
+type: dir
+pred: 0.0.r24/2884
+count: 25
+text: 25 2738 101 0 30323b250a5ef78077d4e4bd27363fef
+cpath: /
+copyroot: 0 /
+
+b-21._0.t24-o add-file false false /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/SOW/WILLIS-Estimation_ScheduleCost V2_updatedTimeLines.xlsx
+24 /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/WILLIS-Estimation_ScheduleCost V2_updatedTimeLines.xlsx
+b-21.0.r21/1877029 delete-file false false /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/WILLIS-Estimation_ScheduleCost V2_updatedTimeLines.xlsx
+
+
+2852 2985

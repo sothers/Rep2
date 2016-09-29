@@ -1,0 +1,154 @@
+id: 3-341.0.r341/0
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Artifacts/SourceCode
+copyroot: 0 /
+
+PLAIN
+K 15
+CLIENT Material
+V 24
+dir 4-339.0.r339/7853992
+K 16
+Design Documents
+V 24
+dir j-339.0.r339/8145368
+K 34
+Functional Specification Documents
+V 25
+dir oz-339.0.r339/8149418
+K 7
+General
+V 25
+dir pb-339.0.r339/8149988
+K 15
+Important Mails
+V 25
+dir pe-339.0.r339/8150152
+K 19
+Minutes Of Meetings
+V 25
+dir pf-339.0.r339/8151913
+K 14
+POCS AND DEMOS
+V 25
+dir pl-339.0.r339/8152090
+K 13
+Presentations
+V 25
+dir pm-339.0.r339/8152562
+K 17
+Project Documents
+V 25
+dir pp-339.0.r339/8152732
+K 12
+Project Plan
+V 25
+dir pq-339.0.r339/8153886
+K 26
+Reference Documents-Others
+V 25
+dir pv-339.0.r339/8154056
+K 12
+Requirements
+V 25
+dir pw-339.0.r339/8157761
+K 19
+Solution Assessment
+V 25
+dir q7-339.0.r339/8157931
+K 10
+SourceCode
+V 18
+dir 3-341.0.r341/0
+K 10
+TIMESHEETS
+V 25
+dir q8-339.0.r339/8158051
+K 23
+Technical Documentation
+V 25
+dir q9-339.0.r339/8158162
+K 17
+Training Material
+V 25
+dir qa-339.0.r339/8158286
+K 9
+Use Cases
+V 25
+dir qb-339.0.r339/8181523
+END
+ENDREP
+id: 2-339.0.r341/1064
+type: dir
+pred: 2-339.0.r339/8182610
+count: 1
+text: 341 104 947 0 537d906f4af15381ccab84b678603d7d
+cpath: /trunk/Hex-SVN/Project Artifacts
+copyroot: 0 /
+
+PLAIN
+K 17
+Project Artifacts
+V 21
+dir 2-339.0.r341/1064
+K 18
+Project Management
+V 21
+dir 2-340.0.r340/2804
+END
+ENDREP
+id: 1-338.0.r341/1358
+type: dir
+pred: 1-338.0.r340/3076
+count: 3
+text: 341 1240 105 0 964f1c9cd4b66c38638032a441039bb8
+cpath: /trunk/Hex-SVN
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r337/1661
+END
+ENDREP
+id: 3-1.0.r341/1617
+type: dir
+pred: 3-1.0.r340/3338
+count: 340
+text: 341 1514 90 0 99fb0aebafb36c1f303a3ca6647d095a
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r341/1617
+END
+ENDREP
+id: 0.0.r341/1877
+type: dir
+pred: 0.0.r340/3601
+count: 341
+text: 341 1762 102 0 451571c32862710e682904314db6870b
+cpath: /
+copyroot: 0 /
+
+_3.0.t340-9g add-dir false false /trunk/Hex-SVN/Project Artifacts/SourceCode
+
+
+1877 2014

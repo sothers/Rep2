@@ -1,0 +1,63 @@
+id: 2-3.0.r3/0
+type: dir
+count: 0
+cpath: /trunk/Willis-BeforeDev/2_Requirement
+copyroot: 0 /
+
+PLAIN
+K 13
+2_Requirement
+V 14
+dir 2-3.0.r3/0
+END
+ENDREP
+id: 1-2.0.r3/150
+type: dir
+pred: 1-2.0.r2/0
+count: 1
+text: 3 94 43 0 a9e7c1b7827a0243f13fb8fcddab68c5
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 16
+dir 1-2.0.r3/150
+END
+ENDREP
+id: 3-1.0.r3/359
+type: dir
+pred: 3-1.0.r2/139
+count: 2
+text: 3 298 48 0 c1079a406bb1a49734fb1085c2c0257d
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 16
+dir 3-1.0.r3/359
+END
+ENDREP
+id: 0.0.r3/605
+type: dir
+pred: 0.0.r2/384
+count: 3
+text: 3 493 99 0 2785e7a99ccc83655aef6b0231f86828
+cpath: /
+copyroot: 0 /
+
+_2.0.t2-2 add-dir false false /trunk/Willis-BeforeDev/2_Requirement
+
+
+605 730

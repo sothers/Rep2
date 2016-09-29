@@ -1,0 +1,64 @@
+id: 1-573.0.r573/0
+type: dir
+count: 0
+cpath: /trunk/OneNote
+copyroot: 0 /
+
+PLAIN
+K 3
+AXA
+V 23
+dir 1-537.0.r561/513386
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 8
+Hexaware
+V 21
+dir 1-562.0.r572/5853
+K 7
+OneNote
+V 18
+dir 1-573.0.r573/0
+K 16
+Willis-BeforeDev
+V 20
+dir 1-2.0.r551/28030
+END
+ENDREP
+id: 3-1.0.r573/292
+type: dir
+pred: 3-1.0.r572/6190
+count: 568
+text: 573 75 204 0 0811497d09940ddcdf661be22841d0b3
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 18
+dir 2-1.0.r567/738
+K 5
+trunk
+V 18
+dir 3-1.0.r573/292
+END
+ENDREP
+id: 0.0.r573/552
+type: dir
+pred: 0.0.r572/6454
+count: 573
+text: 573 435 104 0 d0a5ec8f3ae49d32107b862356a84559
+cpath: /
+copyroot: 0 /
+
+_1.0.t572-fy add-dir false false /trunk/OneNote
+
+
+552 687

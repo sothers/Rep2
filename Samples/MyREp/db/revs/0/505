@@ -1,0 +1,265 @@
+PLAIN
+K 10
+App.config
+V 26
+file 9-270.0.r500/17555550
+K 33
+CoE.Pattern.Repository.EF6.csproj
+V 26
+file b-270.0.r500/17555856
+K 14
+DataContext.cs
+V 26
+file c-270.0.r500/17556184
+K 9
+Entity.cs
+V 25
+file d-270.0.r270/5020806
+K 9
+Factories
+V 24
+dir e-270.0.r270/5022161
+K 16
+FakeDbContext.cs
+V 25
+file j-270.0.r270/5022381
+K 12
+FakeDbSet.cs
+V 25
+file k-270.0.r270/5022661
+K 10
+Properties
+V 24
+dir l-270.0.r270/5023296
+K 14
+QueryFluent.cs
+V 25
+file o-270.0.r270/5023516
+K 14
+QueryObject.cs
+V 25
+file p-270.0.r270/5023794
+K 13
+Repository.cs
+V 26
+file q-270.0.r500/17556492
+K 14
+StateHelper.cs
+V 25
+file r-270.0.r270/5024352
+K 13
+UnitOfWork.cs
+V 26
+file s-270.0.r500/17556798
+K 15
+packages.config
+V 26
+file u-270.0.r500/17557107
+END
+ENDREP
+id: 7-270.0.r505/733
+type: dir
+pred: 7-270.0.r500/17558189
+count: 4
+text: 505 0 720 0 5771a5dad126571eadd51ea35c1f9937
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode/Frameworks/CoE.Pattern.Repository.EF6
+copyroot: 0 /
+
+PLAIN
+K 26
+CoE.Pattern.Repository.EF6
+V 20
+dir 7-270.0.r505/733
+K 19
+CoE.Pattern.Service
+V 25
+dir v-270.0.r500/17559401
+K 23
+CoE.Patterns.Repository
+V 26
+dir 16-270.0.r500/17563237
+END
+ENDREP
+id: 5-270.0.r505/1153
+type: dir
+pred: 5-270.0.r500/17563670
+count: 4
+text: 505 961 179 0 cf9fd7dd9bfe5a68e714a89384475417
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode/Frameworks
+copyroot: 0 /
+
+PLAIN
+K 8
+Database
+V 25
+dir 4-500.0.r500/17555367
+K 10
+Frameworks
+V 21
+dir 5-270.0.r505/1153
+K 17
+Willis.FMS.Common
+V 21
+dir c-500.0.r501/5621
+K 25
+Willis.FMS.Common.Logging
+V 20
+dir f-500.0.r502/859
+K 26
+Willis.FMS.Common.Resource
+V 25
+dir o-500.0.r500/17569315
+K 19
+Willis.FMS.Entities
+V 26
+dir 1x-270.0.r500/17586420
+K 21
+Willis.FMS.Repository
+V 25
+dir 37-270.0.r270/5050098
+K 18
+Willis.FMS.Service
+V 22
+dir 3e-270.0.r504/2375
+K 14
+Willis.FMS.Web
+V 22
+dir 4g-270.0.r503/1376
+K 14
+Willis.FMS.sln
+V 27
+file b5-270.0.r500/17703682
+K 8
+packages
+V 26
+dir b6-270.0.r500/17775946
+END
+ENDREP
+id: 3-270.0.r505/1944
+type: dir
+pred: 3-270.0.r504/3180
+count: 26
+text: 505 1357 574 0 bbfa76cf1eee915153e8a9cf2de565ce
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 22
+dir 3-195.0.r214/85164
+K 8
+Database
+V 21
+dir 3-311.0.r484/2338
+K 10
+SourceCode
+V 21
+dir 3-270.0.r505/1944
+END
+ENDREP
+id: 4-56.0.r505/2271
+type: dir
+pred: 4-56.0.r504/3507
+count: 72
+text: 505 2135 123 0 5ec2431c5815e25fc9e485740ca2a0cb
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r436/597615
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r499/88226
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r435/15086
+K 8
+4_Design
+V 20
+dir 2-56.0.r494/2771
+K 13
+5_Development
+V 20
+dir 4-56.0.r505/2271
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+8_Release
+V 23
+dir 2-473.0.r498/389501
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+K 15
+Willis-Prj.xlsx
+V 22
+file 2-373.0.r497/7989
+END
+ENDREP
+id: 1-2.0.r505/2903
+type: dir
+pred: 1-2.0.r504/4139
+count: 499
+text: 505 2449 441 0 f8d752171fa2f05f5bc0b2894339e530
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r505/2903
+END
+ENDREP
+id: 3-1.0.r505/3169
+type: dir
+pred: 3-1.0.r504/4405
+count: 504
+text: 505 3066 90 0 009f8f1e2c582230efe124f75274dd57
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r505/3169
+END
+ENDREP
+id: 0.0.r505/3429
+type: dir
+pred: 0.0.r504/4665
+count: 505
+text: 505 3314 102 0 56cd3c2f0b2ecc10954b7941f1d2829f
+cpath: /
+copyroot: 0 /
+
+t-270.0.r270/5024911 delete-dir false false /trunk/Willis-BeforeDev/5_Development/SourceCode/Frameworks/CoE.Pattern.Repository.EF6/obj
+
+
+3429 3566

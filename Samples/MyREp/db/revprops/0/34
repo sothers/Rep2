@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+25110
+K 8
+svn:date
+V 27
+2014-11-13T10:46:37.639808Z
+K 7
+svn:log
+V 101
+Updated to show the Flow 1 & 2
+Removed arrows in case of Payers directly paying to Insurance Company.
+END

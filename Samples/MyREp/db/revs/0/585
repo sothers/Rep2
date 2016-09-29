@@ -1,0 +1,122 @@
+id: 3-585.0.r585/0
+type: dir
+count: 0
+cpath: /trunk/Hexaware/CodeVerifier/1_Requirement
+copyroot: 0 /
+
+PLAIN
+K 17
+172.25.200.19.rdp
+V 26
+file 4-563.0.r563/85191058
+K 13
+1_Requirement
+V 18
+dir 3-585.0.r585/0
+K 23
+CodeVerifier_V 1.0.pptx
+V 26
+file 6-563.0.r563/85191342
+K 3
+Dev
+V 21
+dir 3-572.0.r572/5169
+K 11
+Installable
+V 25
+dir 7-563.0.r563/85193120
+K 10
+SourceCode
+V 21
+dir d-563.0.r571/5521
+K 7
+Testing
+V 26
+dir zb-563.0.r563/85561958
+END
+ENDREP
+id: 2-563.0.r585/449
+type: dir
+pred: 2-563.0.r572/5621
+count: 6
+text: 585 103 333 0 a87ff3572b56debcd6d7473565acc88c
+cpath: /trunk/Hexaware/CodeVerifier
+copyroot: 0 /
+
+PLAIN
+K 3
+BBH
+V 23
+dir 2-583.0.r583/110519
+K 12
+CodeVerifier
+V 20
+dir 2-563.0.r585/449
+END
+ENDREP
+id: 1-562.0.r585/715
+type: dir
+pred: 1-562.0.r583/110758
+count: 8
+text: 585 617 85 0 d5adf3273bb590dc736447fb8ac19a8e
+cpath: /trunk/Hexaware
+copyroot: 0 /
+
+PLAIN
+K 3
+AXA
+V 23
+dir 1-537.0.r561/513386
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 8
+Hexaware
+V 20
+dir 1-562.0.r585/715
+K 7
+OneNote
+V 22
+dir 1-573.0.r584/58491
+K 16
+Willis-BeforeDev
+V 20
+dir 1-2.0.r551/28030
+END
+ENDREP
+id: 3-1.0.r585/1091
+type: dir
+pred: 3-1.0.r584/58875
+count: 580
+text: 585 871 207 0 c68c5398c0f0d25c28d649ccefbcbe9e
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 18
+dir 2-1.0.r567/738
+K 5
+trunk
+V 19
+dir 3-1.0.r585/1091
+END
+ENDREP
+id: 0.0.r585/1355
+type: dir
+pred: 0.0.r584/59144
+count: 585
+text: 585 1237 105 0 a5a87022aaae0059689ce5b22ac20efd
+cpath: /
+copyroot: 0 /
+
+_3.0.t584-ga add-dir false false /trunk/Hexaware/CodeVerifier/1_Requirement
+
+
+1355 1493

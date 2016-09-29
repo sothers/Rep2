@@ -1,0 +1,142 @@
+PLAIN
+K 26
+01. MVC-Service-Repository
+V 22
+dir 6-196.0.r197/10916
+K 14
+02. MVC-API-EF
+V 26
+dir lb-196.0.r196/28804519
+K 31
+CoE.Technology.Architecture.sln
+V 27
+file lc-196.0.r196/28804672
+K 8
+packages
+V 26
+dir lg-196.0.r196/28899311
+END
+ENDREP
+id: 4-196.0.r198/244
+type: dir
+pred: 4-196.0.r197/11478
+count: 2
+text: 198 0 231 0 191dda1fd40373d9b1d0c14b85bc79bd
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture
+copyroot: 0 /
+
+PLAIN
+K 27
+CoE.Technology.Architecture
+V 20
+dir 4-196.0.r198/244
+END
+ENDREP
+id: 3-195.0.r198/528
+type: dir
+pred: 3-195.0.r197/11773
+count: 3
+text: 198 452 63 0 5911698c092a1bc70d2e83be38d8b26e
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 20
+dir 3-195.0.r198/528
+END
+ENDREP
+id: 4-56.0.r198/760
+type: dir
+pred: 4-56.0.r197/12014
+count: 4
+text: 198 709 38 0 7c94766d474124f59109c9f9b3c1ec42
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r194/22208
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r192/10351
+K 8
+4_Design
+V 23
+dir 2-56.0.r190/1088248
+K 13
+5_Development
+V 19
+dir 4-56.0.r198/760
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 21
+dir 6-56.0.r180/75589
+END
+ENDREP
+id: 1-2.0.r198/1296
+type: dir
+pred: 1-2.0.r197/12559
+count: 196
+text: 198 935 348 0 40a8783a1ac616c56f18d2d215a81813
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r198/1296
+END
+ENDREP
+id: 3-1.0.r198/1523
+type: dir
+pred: 3-1.0.r197/12793
+count: 197
+text: 198 1459 51 0 0f2820a3cf63ecdb181a99c636e7f0c9
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r198/1523
+END
+ENDREP
+id: 0.0.r198/1784
+type: dir
+pred: 0.0.r197/13060
+count: 198
+text: 198 1669 102 0 dd3a411a0de16211f3a88dc2b4e86747
+cpath: /
+copyroot: 0 /
+
+le-196.0.r196/28804956 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/CoE.Technology.Architecture.v11.suo
+
+
+1784 1922

@@ -1,0 +1,52 @@
+id: 1-338.0.r338/0
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 18
+dir 1-338.0.r338/0
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r337/1661
+END
+ENDREP
+id: 3-1.0.r338/175
+type: dir
+pred: 3-1.0.r337/1890
+count: 337
+text: 338 75 87 0 8593e79564bda5aba41011b96cd7d213
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 18
+dir 3-1.0.r338/175
+END
+ENDREP
+id: 0.0.r338/431
+type: dir
+pred: 0.0.r337/2152
+count: 338
+text: 338 317 101 0 ea505e0f6e0f837f31b7e9c04705e625
+cpath: /
+copyroot: 0 /
+
+_1.0.t337-9d add-dir false false /trunk/Hex-SVN
+
+
+431 566

@@ -1,0 +1,274 @@
+PLAIN
+END
+ENDREP
+id: 23-196.0.r200/17
+type: dir
+pred: 23-196.0.r196/28664320
+count: 1
+text: 200 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Repository.EF6/obj
+copyroot: 0 /
+
+PLAIN
+K 10
+App.config
+V 26
+file g-196.0.r196/28648802
+K 33
+CoE.Pattern.Repository.EF6.csproj
+V 26
+file j-196.0.r196/28649121
+K 14
+DataContext.cs
+V 26
+file l-196.0.r196/28649466
+K 9
+Entity.cs
+V 26
+file n-196.0.r196/28649793
+K 9
+Factories
+V 25
+dir p-196.0.r196/28651342
+K 16
+FakeDbContext.cs
+V 26
+file x-196.0.r196/28651612
+K 12
+FakeDbSet.cs
+V 26
+file z-196.0.r196/28651940
+K 10
+Properties
+V 26
+dir 11-196.0.r196/28652676
+K 14
+QueryFluent.cs
+V 27
+file 15-196.0.r196/28652947
+K 14
+QueryObject.cs
+V 27
+file 17-196.0.r196/28653275
+K 13
+Repository.cs
+V 27
+file 19-196.0.r196/28653604
+K 14
+StateHelper.cs
+V 27
+file 1b-196.0.r196/28653933
+K 13
+UnitOfWork.cs
+V 27
+file 1d-196.0.r196/28654262
+K 3
+bin
+V 20
+dir 1f-196.0.r199/17
+K 3
+obj
+V 20
+dir 23-196.0.r200/17
+K 15
+packages.config
+V 27
+file 2o-196.0.r196/28664584
+END
+ENDREP
+id: e-196.0.r200/1112
+type: dir
+pred: e-196.0.r199/1118
+count: 2
+text: 200 296 803 0 44fde46cdf02d27d912bf9a719457a5c
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Repository.EF6
+copyroot: 0 /
+
+PLAIN
+K 26
+CoE.Pattern.Repository.EF6
+V 21
+dir e-196.0.r200/1112
+K 19
+CoE.Pattern.Service
+V 26
+dir 2q-196.0.r196/28676355
+K 23
+CoE.Patterns.Repository
+V 26
+dir 45-196.0.r196/28695045
+END
+ENDREP
+id: d-196.0.r200/1581
+type: dir
+pred: d-196.0.r199/1591
+count: 2
+text: 200 1387 181 0 d7a42f05753322189ed3d5a1f5f606ef
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 25
+dir 8-196.0.r196/28648567
+K 10
+Frameworks
+V 21
+dir d-196.0.r200/1581
+K 6
+Sample
+V 23
+dir 6o-196.0.r197/10509
+END
+ENDREP
+id: 6-196.0.r200/1980
+type: dir
+pred: 6-196.0.r199/1994
+count: 3
+text: 200 1830 137 0 b438fd04c985fa79313d9677fde8fa62
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository
+copyroot: 0 /
+
+PLAIN
+K 26
+01. MVC-Service-Repository
+V 21
+dir 6-196.0.r200/1980
+K 14
+02. MVC-API-EF
+V 26
+dir lb-196.0.r196/28804519
+K 31
+CoE.Technology.Architecture.sln
+V 27
+file lc-196.0.r196/28804672
+K 8
+packages
+V 26
+dir lg-196.0.r196/28899311
+END
+ENDREP
+id: 4-196.0.r200/2461
+type: dir
+pred: 4-196.0.r199/2476
+count: 4
+text: 200 2218 230 0 399fcf0fb647e85c988404d568321da6
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture
+copyroot: 0 /
+
+PLAIN
+K 27
+CoE.Technology.Architecture
+V 21
+dir 4-196.0.r200/2461
+END
+ENDREP
+id: 3-195.0.r200/2749
+type: dir
+pred: 3-195.0.r199/2763
+count: 5
+text: 200 2672 64 0 6edaab99a8bbf0b290c0779108d50eeb
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 21
+dir 3-195.0.r200/2749
+END
+ENDREP
+id: 4-56.0.r200/2983
+type: dir
+pred: 4-56.0.r199/2996
+count: 6
+text: 200 2931 39 0 65c55ff7d7828666d25d5c5765d3eb95
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r194/22208
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r192/10351
+K 8
+4_Design
+V 23
+dir 2-56.0.r190/1088248
+K 13
+5_Development
+V 20
+dir 4-56.0.r200/2983
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 21
+dir 6-56.0.r180/75589
+END
+ENDREP
+id: 1-2.0.r200/3521
+type: dir
+pred: 1-2.0.r199/3533
+count: 198
+text: 200 3159 349 0 d39118a64c9194e5c255c7b3eca9e0b7
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r200/3521
+END
+ENDREP
+id: 3-1.0.r200/3748
+type: dir
+pred: 3-1.0.r199/3760
+count: 199
+text: 200 3684 51 0 20144e35675a1c47cd4e3dcc21a458fb
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r200/3748
+END
+ENDREP
+id: 0.0.r200/4008
+type: dir
+pred: 0.0.r199/4020
+count: 200
+text: 200 3893 102 0 f9ad141212ffecfae1c59ab7aff3eb0f
+cpath: /
+copyroot: 0 /
+
+24-196.0.r196/28663990 delete-dir false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Repository.EF6/obj/Debug
+
+
+4008 4145

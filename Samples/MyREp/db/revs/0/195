@@ -1,0 +1,106 @@
+id: 3-195.0.r195/0
+type: dir
+count: 0
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 18
+dir 3-195.0.r195/0
+END
+ENDREP
+id: 4-56.0.r195/151
+type: dir
+pred: 4-56.0.r56/34582
+count: 1
+text: 195 102 36 0 e22df5fc4f4f94f641c72aaccb6dec48
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r194/22208
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r192/10351
+K 8
+4_Design
+V 23
+dir 2-56.0.r190/1088248
+K 13
+5_Development
+V 19
+dir 4-56.0.r195/151
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 21
+dir 6-56.0.r180/75589
+END
+ENDREP
+id: 1-2.0.r195/686
+type: dir
+pred: 1-2.0.r194/22749
+count: 193
+text: 195 325 348 0 d05cea1a108fd9d52b169372a98bef29
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 18
+dir 1-2.0.r195/686
+END
+ENDREP
+id: 3-1.0.r195/911
+type: dir
+pred: 3-1.0.r194/22980
+count: 194
+text: 195 848 50 0 21ca613d121c40f08f85fd1e988d7b9e
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 18
+dir 3-1.0.r195/911
+END
+ENDREP
+id: 0.0.r195/1169
+type: dir
+pred: 0.0.r194/23244
+count: 195
+text: 195 1055 101 0 839918c93c5e39891bd5a943333899da
+cpath: /
+copyroot: 0 /
+
+_3.0.t194-5e add-dir false false /trunk/Willis-BeforeDev/5_Development/CoE
+
+
+1169 1307

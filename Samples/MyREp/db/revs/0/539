@@ -1,0 +1,149 @@
+id: 8-539.0.r539/0
+type: file
+count: 0
+text: 534 0 238730 403456 effbb720748fc1a1a3065bc9667bc0e0 ae70a4e977fe0d6ab502c553708c8fe38cf2131e 538-f0/_c
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/AXA/Pre/1_Requirements/FromClient/PPG_SRD Draft.doc
+copyroot: 0 /
+
+id: a-539.0.r539/285
+type: file
+count: 0
+text: 534 238743 281367 506368 9503219e0a9d345e615bac2171a727d2 85a9a7b520162fbd1d756dd5c82a481714cc75e8 538-f0/_d
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/AXA/Pre/1_Requirements/FromClient/RFP_PPG Network ESB.ppt
+copyroot: 0 /
+
+id: b-539.0.r539/583
+type: file
+count: 0
+text: 534 520123 3591292 4749720 eda2dabf9281fc240035e24ef9953fd1 9e8301547435a01ba799b80819996d6d66eb55ea 538-f0/_e
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/AXA/Pre/1_Requirements/FromClient/üyâhâëâtâgéQüzéoéoéfâlâbâgâÅü%5bâNâVâXâeâÇ_Translated.pdf
+copyroot: 0 /
+
+PLAIN
+K 17
+PPG_SRD Draft.doc
+V 19
+file 8-539.0.r539/0
+K 23
+RFP_PPG Network ESB.ppt
+V 21
+file a-539.0.r539/285
+K 80
+üyâhâëâtâgéQüzéoéoéfâlâbâgâÅü%5bâNâVâXâeâÇ_Translated.pdf
+V 21
+file b-539.0.r539/583
+END
+ENDREP
+id: 6-539.0.r539/1174
+type: dir
+count: 0
+text: 539 940 221 0 d71deb2d268bd1366fb5307c81a6bd1d
+cpath: /trunk/AXA/Pre/1_Requirements/FromClient
+copyroot: 0 /
+
+PLAIN
+K 10
+FromClient
+V 21
+dir 6-539.0.r539/1174
+END
+ENDREP
+id: 4-539.0.r539/1391
+type: dir
+count: 0
+text: 539 1331 47 0 1a32d17b721968391ef16f55d19d71f2
+cpath: /trunk/AXA/Pre/1_Requirements
+copyroot: 0 /
+
+PLAIN
+K 14
+1_Requirements
+V 21
+dir 4-539.0.r539/1391
+END
+ENDREP
+id: 2-539.0.r539/1601
+type: dir
+count: 0
+text: 539 1537 51 0 0d42f09a4ae8309e48a29e8bb0ccba15
+cpath: /trunk/AXA/Pre
+copyroot: 0 /
+
+PLAIN
+K 3
+Pre
+V 21
+dir 2-539.0.r539/1601
+END
+ENDREP
+id: 1-537.0.r539/1784
+type: dir
+pred: 1-537.0.r537/0
+count: 1
+text: 539 1732 39 0 85effeae71ed1d5cb17f42debcf6873f
+cpath: /trunk/AXA
+copyroot: 0 /
+
+PLAIN
+K 3
+AXA
+V 21
+dir 1-537.0.r539/1784
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 21
+dir 1-2.0.r533/677758
+END
+ENDREP
+id: 3-1.0.r539/2072
+type: dir
+pred: 3-1.0.r538/137
+count: 538
+text: 539 1932 127 0 713789571a5b33a50ba2b0acc6777341
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r539/2072
+END
+ENDREP
+id: 0.0.r539/2332
+type: dir
+pred: 0.0.r538/392
+count: 539
+text: 539 2217 102 0 27f96bbab4fd512ab2876a9adc2ced46
+cpath: /
+copyroot: 0 /
+
+_2.0.t538-f0 add-dir false false /trunk/AXA/Pre
+
+_4.0.t538-f0 add-dir false false /trunk/AXA/Pre/1_Requirements
+
+_6.0.t538-f0 add-dir false false /trunk/AXA/Pre/1_Requirements/FromClient
+
+_8.0.t538-f0 add-file true true /trunk/AXA/Pre/1_Requirements/FromClient/PPG_SRD Draft.doc
+
+_a.0.t538-f0 add-file true true /trunk/AXA/Pre/1_Requirements/FromClient/RFP_PPG Network ESB.ppt
+
+_b.0.t538-f0 add-file true true /trunk/AXA/Pre/1_Requirements/FromClient/üyâhâëâtâgéQüzéoéoéfâlâbâgâÅü%5bâNâVâXâeâÇ_Translated.pdf
+
+
+2332 2468

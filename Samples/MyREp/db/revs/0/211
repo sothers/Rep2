@@ -1,0 +1,486 @@
+PLAIN
+K 18
+Antlr3.Runtime.dll
+V 27
+file hd-196.0.r196/28771616
+K 29
+EntityFramework.SqlServer.dll
+V 27
+file ia-196.0.r196/28777782
+K 19
+EntityFramework.dll
+V 27
+file ic-196.0.r196/28778173
+K 11
+LinqKit.dll
+V 27
+file ie-196.0.r196/28778557
+K 39
+Microsoft.Practices.ServiceLocation.dll
+V 27
+file ig-196.0.r196/28778929
+K 39
+Microsoft.Practices.ServiceLocation.pdb
+V 27
+file ii-196.0.r196/28779329
+K 39
+Microsoft.Practices.ServiceLocation.xml
+V 27
+file ik-196.0.r196/28779729
+K 43
+Microsoft.Practices.Unity.Configuration.dll
+V 27
+file im-196.0.r196/28780074
+K 43
+Microsoft.Practices.Unity.Configuration.xml
+V 27
+file io-196.0.r196/28780479
+K 33
+Microsoft.Practices.Unity.Mvc.dll
+V 27
+file iq-196.0.r196/28780830
+K 33
+Microsoft.Practices.Unity.Mvc.xml
+V 27
+file is-196.0.r196/28781224
+K 54
+Microsoft.Practices.Unity.RegistrationByConvention.dll
+V 27
+file iu-196.0.r196/28781562
+K 54
+Microsoft.Practices.Unity.RegistrationByConvention.xml
+V 27
+file iw-196.0.r196/28781978
+K 29
+Microsoft.Practices.Unity.dll
+V 27
+file iy-196.0.r196/28782338
+K 29
+Microsoft.Practices.Unity.xml
+V 27
+file j0-196.0.r196/28782730
+K 32
+Microsoft.Web.Infrastructure.dll
+V 27
+file j2-196.0.r196/28783067
+K 32
+Microsoft.Web.Infrastructure.xml
+V 27
+file j4-196.0.r196/28783461
+K 19
+Newtonsoft.Json.dll
+V 27
+file j6-196.0.r196/28783797
+K 19
+Newtonsoft.Json.xml
+V 27
+file j8-196.0.r196/28784180
+K 30
+System.Net.Http.Formatting.dll
+V 27
+file ja-196.0.r196/28784507
+K 30
+System.Net.Http.Formatting.xml
+V 27
+file jc-196.0.r196/28784900
+K 30
+System.Net.Http.WebRequest.dll
+V 27
+file je-196.0.r196/28785238
+K 19
+System.Net.Http.dll
+V 27
+file jg-196.0.r196/28785629
+K 22
+System.Web.Helpers.dll
+V 27
+file ji-196.0.r196/28786011
+K 22
+System.Web.Helpers.xml
+V 27
+file jk-196.0.r196/28786396
+K 27
+System.Web.Http.WebHost.dll
+V 27
+file jm-196.0.r196/28786725
+K 27
+System.Web.Http.WebHost.xml
+V 27
+file jo-196.0.r196/28787114
+K 19
+System.Web.Http.dll
+V 27
+file jq-196.0.r196/28787447
+K 19
+System.Web.Http.xml
+V 27
+file js-196.0.r196/28787830
+K 18
+System.Web.Mvc.dll
+V 27
+file ju-196.0.r196/28788157
+K 18
+System.Web.Mvc.xml
+V 27
+file jw-196.0.r196/28788539
+K 27
+System.Web.Optimization.dll
+V 27
+file jy-196.0.r196/28788865
+K 27
+System.Web.Optimization.xml
+V 27
+file k0-196.0.r196/28789254
+K 20
+System.Web.Razor.dll
+V 27
+file k2-196.0.r196/28789587
+K 20
+System.Web.Razor.xml
+V 27
+file k4-196.0.r196/28789971
+K 34
+System.Web.WebPages.Deployment.dll
+V 27
+file k6-196.0.r196/28790299
+K 34
+System.Web.WebPages.Deployment.xml
+V 27
+file k8-196.0.r196/28790695
+K 29
+System.Web.WebPages.Razor.dll
+V 27
+file ka-196.0.r196/28791033
+K 29
+System.Web.WebPages.Razor.xml
+V 27
+file kc-196.0.r196/28791424
+K 23
+System.Web.WebPages.dll
+V 27
+file ke-196.0.r196/28791759
+K 23
+System.Web.WebPages.xml
+V 27
+file kg-196.0.r196/28792145
+K 18
+WebActivatorEx.dll
+V 27
+file ki-196.0.r196/28792476
+K 13
+WebGrease.dll
+V 27
+file kk-196.0.r196/28792855
+END
+ENDREP
+id: hc-196.0.r211/2886
+type: dir
+pred: hc-196.0.r196/28797080
+count: 1
+text: 211 0 2873 0 b9e38c82177147f3af6fbbee00980ea3
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin
+copyroot: 0 /
+
+PLAIN
+K 8
+App_Data
+V 26
+dir ep-196.0.r196/28755220
+K 9
+App_Start
+V 22
+dir ew-196.0.r197/3765
+K 5
+Areas
+V 21
+dir 8-197.0.r197/7279
+K 24
+CoE.Northwind.Web.csproj
+V 23
+file fa-196.0.r197/7519
+K 29
+CoE.Northwind.Web.csproj.user
+V 27
+file fc-196.0.r196/28758358
+K 7
+Content
+V 26
+dir fe-196.0.r196/28762978
+K 11
+Controllers
+V 26
+dir g0-196.0.r196/28764024
+K 11
+Global.asax
+V 27
+file g6-196.0.r196/28764280
+K 14
+Global.asax.cs
+V 27
+file g8-196.0.r196/28764590
+K 6
+Models
+V 26
+dir ga-196.0.r196/28764903
+K 19
+Project_Readme.html
+V 27
+file gb-196.0.r196/28765096
+K 10
+Properties
+V 26
+dir gd-196.0.r196/28766079
+K 5
+Views
+V 22
+dir gi-196.0.r197/8854
+K 10
+Web.config
+V 27
+file ha-196.0.r196/28771305
+K 3
+bin
+V 22
+dir hc-196.0.r211/2886
+K 11
+favicon.ico
+V 27
+file km-196.0.r196/28797329
+K 3
+obj
+V 26
+dir ko-196.0.r196/28802008
+K 15
+packages.config
+V 27
+file l9-196.0.r196/28802255
+END
+ENDREP
+id: eo-196.0.r211/4033
+type: dir
+pred: eo-196.0.r197/10009
+count: 2
+text: 211 3153 867 0 cbedc0e2bdfaa6bd6d277c602760328d
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web
+copyroot: 0 /
+
+PLAIN
+K 18
+Northwind.Entities
+V 21
+dir 6p-196.0.r206/825
+K 20
+Northwind.Repository
+V 21
+dir aa-196.0.r208/804
+K 17
+Northwind.Service
+V 21
+dir cl-196.0.r210/774
+K 13
+Northwind.Web
+V 22
+dir eo-196.0.r211/4033
+END
+ENDREP
+id: 6o-196.0.r211/4513
+type: dir
+pred: 6o-196.0.r210/1255
+count: 8
+text: 211 4295 205 0 05066386b04276cca2f22d9da12be8de
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 25
+dir 8-196.0.r196/28648567
+K 10
+Frameworks
+V 21
+dir d-196.0.r204/1252
+K 6
+Sample
+V 22
+dir 6o-196.0.r211/4513
+END
+ENDREP
+id: 6-196.0.r211/4909
+type: dir
+pred: 6-196.0.r210/1651
+count: 14
+text: 211 4760 136 0 08b112eba6a3df155b6e5fa0f3e973a7
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository
+copyroot: 0 /
+
+PLAIN
+K 26
+01. MVC-Service-Repository
+V 21
+dir 6-196.0.r211/4909
+K 14
+02. MVC-API-EF
+V 26
+dir lb-196.0.r196/28804519
+K 31
+CoE.Technology.Architecture.sln
+V 27
+file lc-196.0.r196/28804672
+K 8
+packages
+V 26
+dir lg-196.0.r196/28899311
+END
+ENDREP
+id: 4-196.0.r211/5391
+type: dir
+pred: 4-196.0.r210/2133
+count: 15
+text: 211 5148 230 0 9caa81c0023192ce0d5a7f798efea30f
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture
+copyroot: 0 /
+
+PLAIN
+K 27
+CoE.Technology.Architecture
+V 21
+dir 4-196.0.r211/5391
+END
+ENDREP
+id: 3-195.0.r211/5680
+type: dir
+pred: 3-195.0.r210/2422
+count: 16
+text: 211 5603 64 0 8a08b78820e4acac46659195f80ace20
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 21
+dir 3-195.0.r211/5680
+END
+ENDREP
+id: 4-56.0.r211/5915
+type: dir
+pred: 4-56.0.r210/2657
+count: 17
+text: 211 5863 39 0 17ac17b7efbf67dcf8d181b446ecbabb
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r194/22208
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r192/10351
+K 8
+4_Design
+V 23
+dir 2-56.0.r190/1088248
+K 13
+5_Development
+V 20
+dir 4-56.0.r211/5915
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 21
+dir 6-56.0.r180/75589
+END
+ENDREP
+id: 1-2.0.r211/6454
+type: dir
+pred: 1-2.0.r210/3196
+count: 209
+text: 211 6092 349 0 ce66eee3dee95681260f5f9223aaa3f4
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r211/6454
+END
+ENDREP
+id: 3-1.0.r211/6681
+type: dir
+pred: 3-1.0.r210/3423
+count: 210
+text: 211 6617 51 0 0c37549699cb4b5f3d2a2c1d30810984
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r211/6681
+END
+ENDREP
+id: 0.0.r211/6941
+type: dir
+pred: 0.0.r210/3683
+count: 211
+text: 211 6826 102 0 088e5371f7d6e8f04e85c0745c79bf75
+cpath: /
+copyroot: 0 /
+
+hg-196.0.r196/28771997 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/Antlr3.Runtime.pdb
+
+hi-196.0.r196/28772379 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Entities.dll
+
+hk-196.0.r196/28772767 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Entities.pdb
+
+hm-196.0.r196/28773154 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Repository.dll
+
+ho-196.0.r196/28773543 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Repository.pdb
+
+hq-196.0.r196/28773932 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Service.dll
+
+hs-196.0.r196/28774317 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Service.pdb
+
+hu-196.0.r196/28774703 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Web.dll
+
+hw-196.0.r196/28775085 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Northwind.Web.pdb
+
+hy-196.0.r196/28775467 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Pattern.Repository.EF6.dll
+
+i0-196.0.r196/28775857 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Pattern.Repository.EF6.pdb
+
+i2-196.0.r196/28776247 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Pattern.Repository.dll
+
+i4-196.0.r196/28776631 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Pattern.Repository.pdb
+
+i6-196.0.r196/28777014 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Pattern.Service.dll
+
+i8-196.0.r196/28777398 delete-file false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Sample/Northwind.Web/bin/CoE.Pattern.Service.pdb
+
+
+6941 7078

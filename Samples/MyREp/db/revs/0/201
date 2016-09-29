@@ -1,0 +1,238 @@
+PLAIN
+END
+ENDREP
+id: 34-196.0.r201/17
+type: dir
+pred: 34-196.0.r196/28671043
+count: 1
+text: 201 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Service/bin
+copyroot: 0 /
+
+PLAIN
+K 26
+CoE.Pattern.Service.csproj
+V 27
+file 2r-196.0.r196/28666003
+K 11
+IService.cs
+V 27
+file 2u-196.0.r196/28666340
+K 26
+IService.cs~RF1ff8573b.TMP
+V 27
+file 2w-196.0.r196/28666661
+K 10
+Properties
+V 26
+dir 2y-196.0.r196/28667404
+K 10
+Service.cs
+V 27
+file 32-196.0.r196/28667668
+K 3
+bin
+V 20
+dir 34-196.0.r201/17
+K 3
+obj
+V 26
+dir 3k-196.0.r196/28675724
+END
+ENDREP
+id: 2q-196.0.r201/657
+type: dir
+pred: 2q-196.0.r196/28676355
+count: 1
+text: 201 289 355 0 de614b4eabc0bfcb7e624b8c6a3032f4
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Service
+copyroot: 0 /
+
+PLAIN
+K 26
+CoE.Pattern.Repository.EF6
+V 21
+dir e-196.0.r200/1112
+K 19
+CoE.Pattern.Service
+V 21
+dir 2q-196.0.r201/657
+K 23
+CoE.Patterns.Repository
+V 26
+dir 45-196.0.r196/28695045
+END
+ENDREP
+id: d-196.0.r201/1119
+type: dir
+pred: d-196.0.r200/1581
+count: 3
+text: 201 930 176 0 85c9aee4fe3b59520c4126e108d1b608
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 25
+dir 8-196.0.r196/28648567
+K 10
+Frameworks
+V 21
+dir d-196.0.r201/1119
+K 6
+Sample
+V 23
+dir 6o-196.0.r197/10509
+END
+ENDREP
+id: 6-196.0.r201/1517
+type: dir
+pred: 6-196.0.r200/1980
+count: 4
+text: 201 1367 137 0 1ebbc12879c853d4647939f0f9e0e735
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository
+copyroot: 0 /
+
+PLAIN
+K 26
+01. MVC-Service-Repository
+V 21
+dir 6-196.0.r201/1517
+K 14
+02. MVC-API-EF
+V 26
+dir lb-196.0.r196/28804519
+K 31
+CoE.Technology.Architecture.sln
+V 27
+file lc-196.0.r196/28804672
+K 8
+packages
+V 26
+dir lg-196.0.r196/28899311
+END
+ENDREP
+id: 4-196.0.r201/1998
+type: dir
+pred: 4-196.0.r200/2461
+count: 5
+text: 201 1755 230 0 ab32bfdc855b57938400e36f5ded15d6
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture
+copyroot: 0 /
+
+PLAIN
+K 27
+CoE.Technology.Architecture
+V 21
+dir 4-196.0.r201/1998
+END
+ENDREP
+id: 3-195.0.r201/2286
+type: dir
+pred: 3-195.0.r200/2749
+count: 6
+text: 201 2209 64 0 7f56fa22a14b38234d1e41e2501e38f8
+cpath: /trunk/Willis-BeforeDev/5_Development/CoE
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 21
+dir 3-195.0.r201/2286
+END
+ENDREP
+id: 4-56.0.r201/2520
+type: dir
+pred: 4-56.0.r200/2983
+count: 7
+text: 201 2468 39 0 3f8728ec0ce487fa20538582163e1560
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 19
+dir 2-4.0.r108/8937
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r194/22208
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r192/10351
+K 8
+4_Design
+V 23
+dir 2-56.0.r190/1088248
+K 13
+5_Development
+V 20
+dir 4-56.0.r201/2520
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 21
+dir 6-56.0.r180/75589
+END
+ENDREP
+id: 1-2.0.r201/3058
+type: dir
+pred: 1-2.0.r200/3521
+count: 199
+text: 201 2696 349 0 7592aef242b6f17e47f9617eb2bf4478
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r201/3058
+END
+ENDREP
+id: 3-1.0.r201/3285
+type: dir
+pred: 3-1.0.r200/3748
+count: 200
+text: 201 3221 51 0 9d08e46e266732118d22e3b579564810
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r201/3285
+END
+ENDREP
+id: 0.0.r201/3545
+type: dir
+pred: 0.0.r200/4008
+count: 201
+text: 201 3430 102 0 8417caca2ab0cc07aac33f5adf74ebbe
+cpath: /
+copyroot: 0 /
+
+35-196.0.r196/28670720 delete-dir false false /trunk/Willis-BeforeDev/5_Development/CoE/CoE.Technology.Architecture/01. MVC-Service-Repository/Frameworks/CoE.Pattern.Service/bin/Debug
+
+
+3545 3682

@@ -1,0 +1,173 @@
+id: 6-21.0-24.r24/0
+type: file
+pred: 6-21.0.r21/1875704
+count: 1
+text: 21 0 1663146 2068480 aa656f9b3d4c638e8a41e83168671355 5ab7d6939ce9c737259058a055710f928e403771 20-k/_c
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/SOW/Hexaware Response_Willis_Fleet Management System_amended_2014.10.10.doc
+copyfrom: 23 /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/Hexaware Response_Willis_Fleet Management System_amended_2014.10.10.doc
+
+PLAIN
+K 63
+Annexure_Willis_Fleet_Management_Requirement Mappings v1.1.xlsx
+V 20
+file 4-21.0-23.r23/0
+K 71
+Hexaware Response_Willis_Fleet Management System_amended_2014.10.10.doc
+V 20
+file 6-21.0-24.r24/0
+K 59
+Hexaware_Willis Iberia_Fleet Management System_SoW_v0.1.doc
+V 23
+file 9-21.0.r21/1876383
+END
+ENDREP
+id: 8-21.0.r24/823
+type: dir
+pred: 8-21.0.r23/706
+count: 2
+text: 24 514 296 0 667ce14438516df7776e2e663476a75f
+cpath: /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/SOW
+copyroot: 0 /
+
+PLAIN
+K 47
+DRU_PR_FLO_Flotas y Renting v.3_English_V3.docx
+V 21
+file 4-7.0.r7/1161302
+K 19
+Ficheros Flotas.zip
+V 21
+file 6-7.0.r7/1161634
+K 22
+FleetMgmt_Queries.xlsx
+V 21
+file 7-7.0.r12/294315
+K 30
+Hexaware Schedule_Addedum.docx
+V 23
+file 7-21.0.r21/1876063
+K 65
+Preguntas y Respuesta a la RFP Gestión de Flotas_Translated.docx
+V 19
+file 8-7.0.r9/67915
+K 44
+RFP_PR_FLO_Flotas y Renting v.3_English.docx
+V 21
+file 9-7.0.r7/1162593
+K 6
+SA.zip
+V 20
+file a-7.0.r8/121022
+K 3
+SOW
+V 18
+dir 8-21.0.r24/823
+K 18
+Sample Input Files
+V 21
+dir 4-12.0.r12/296411
+K 55
+WILLIS-Estimation_ScheduleCost V2_updatedTimeLines.xlsx
+V 23
+file b-21.0.r21/1877029
+K 60
+Willis Fleet Management RFP Presentation _ Final_260914.pptx
+V 23
+file 4-10.0.r10/2024211
+K 41
+Willis Fleet Management System v 0.3.pptx
+V 23
+file 4-11.0.r11/1496797
+END
+ENDREP
+id: 3-6.0.r24/1841
+type: dir
+pred: 3-6.0.r23/1834
+count: 9
+text: 24 1018 810 0 1592e734eacdcd8610014644ef0b71d1
+cpath: /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient
+copyroot: 0 /
+
+PLAIN
+K 19
+DocumentsFromClient
+V 18
+dir 3-6.0.r24/1841
+END
+ENDREP
+id: 2-3.0.r24/2099
+type: dir
+pred: 2-3.0.r23/2094
+count: 10
+text: 24 2033 53 0 4aed19b2a4543f922b9676caaf49cb4d
+cpath: /trunk/Willis-BeforeDev/2_Requirement
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 18
+dir 2-4.0.r22/6217
+K 13
+2_Requirement
+V 18
+dir 2-3.0.r24/2099
+K 10
+3_Analysis
+V 14
+dir 2-5.0.r5/0
+END
+ENDREP
+id: 1-2.0.r24/2407
+type: dir
+pred: 1-2.0.r23/2404
+count: 22
+text: 24 2271 123 0 a55c92e5d3bbbf5098b0029392ecde96
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 16
+Willis-BeforeDev
+V 18
+dir 1-2.0.r24/2407
+END
+ENDREP
+id: 3-1.0.r24/2629
+type: dir
+pred: 3-1.0.r23/2626
+count: 23
+text: 24 2566 50 0 ce18bd544a9c27aca19c9751a19c9bd6
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 18
+dir 3-1.0.r24/2629
+END
+ENDREP
+id: 0.0.r24/2884
+type: dir
+pred: 0.0.r23/2881
+count: 24
+text: 24 2770 101 0 e2f37fdd75fef537287a67ae950b3585
+cpath: /
+copyroot: 0 /
+
+6-21.0.r21/1875704 delete-file false false /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/Hexaware Response_Willis_Fleet Management System_amended_2014.10.10.doc
+
+6-21._0.t23-n add-file false false /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/SOW/Hexaware Response_Willis_Fleet Management System_amended_2014.10.10.doc
+23 /trunk/Willis-BeforeDev/2_Requirement/DocumentsFromClient/Hexaware Response_Willis_Fleet Management System_amended_2014.10.10.doc
+
+2884 3017

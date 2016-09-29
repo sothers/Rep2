@@ -1,0 +1,80 @@
+id: d-563.0-566.r566/0
+type: dir
+pred: d-563.0.r563/85561793
+count: 1
+text: 563 85561002 778 0 61000c6ef130ddb00750419d4f521995
+cpath: /tags/Hexaware/CodeVerifier/SourceCode
+copyfrom: 565 /trunk/Hexaware/CodeVerifier/SourceCode
+
+PLAIN
+K 10
+SourceCode
+V 22
+dir d-563.0-566.r566/0
+END
+ENDREP
+id: 2-565.0.r566/290
+type: dir
+pred: 2-565.0.r565/0
+count: 1
+text: 566 229 48 0 aba3ec490d4b0d3c152f488c3366db96
+cpath: /tags/Hexaware/CodeVerifier
+copyroot: 0 /
+
+PLAIN
+K 12
+CodeVerifier
+V 20
+dir 2-565.0.r566/290
+END
+ENDREP
+id: 1-564.0.r566/514
+type: dir
+pred: 1-564.0.r565/147
+count: 2
+text: 566 453 48 0 4bc033aef146cc839c481e1c31b08ea0
+cpath: /tags/Hexaware
+copyroot: 0 /
+
+PLAIN
+K 8
+Hexaware
+V 20
+dir 1-564.0.r566/514
+END
+ENDREP
+id: 2-1.0.r566/722
+type: dir
+pred: 2-1.0.r565/352
+count: 3
+text: 566 666 43 0 9c03891e7ade6c9b452248a2214454c7
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 18
+dir 2-1.0.r566/722
+K 5
+trunk
+V 23
+dir 3-1.0.r563/85562901
+END
+ENDREP
+id: 0.0.r566/983
+type: dir
+pred: 0.0.r565/613
+count: 566
+text: 566 861 109 0 e542fe842236c75703ec3a168b00758f
+cpath: /
+copyroot: 0 /
+
+d-563._0.t565-fr add-dir false false /tags/Hexaware/CodeVerifier/SourceCode
+565 /trunk/Hexaware/CodeVerifier/SourceCode
+
+983 1117

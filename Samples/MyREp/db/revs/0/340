@@ -1,0 +1,279 @@
+id: 4-340.0.r340/0
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Appreciations
+copyroot: 0 /
+
+id: 6-340.0.r340/108
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Billing and Financial
+copyroot: 0 /
+
+id: 7-340.0.r340/226
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/CVA and Innovations
+copyroot: 0 /
+
+id: 8-340.0.r340/342
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Case Studies
+copyroot: 0 /
+
+id: 9-340.0.r340/451
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Client References
+copyroot: 0 /
+
+id: a-340.0.r340/565
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Estimations
+copyroot: 0 /
+
+id: b-340.0.r340/673
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/INTERNAL - Certifications
+copyroot: 0 /
+
+id: c-340.0.r340/795
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/INTERNAL - Project Processes
+copyroot: 0 /
+
+id: d-340.0.r340/920
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/INTERNAL - SMR
+copyroot: 0 /
+
+id: e-340.0.r340/1031
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/INTERNAL - Training Plan
+copyroot: 0 /
+
+id: f-340.0.r340/1153
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Important Milestones
+copyroot: 0 /
+
+id: g-340.0.r340/1271
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Installation Material
+copyroot: 0 /
+
+id: h-340.0.r340/1390
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/MSA, NDA, SOW
+copyroot: 0 /
+
+id: i-340.0.r340/1501
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Master Plan
+copyroot: 0 /
+
+id: j-340.0.r340/1610
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/Proposals
+copyroot: 0 /
+
+id: k-340.0.r340/1717
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/REPORTING - Weekly Status
+copyroot: 0 /
+
+id: l-340.0.r340/1840
+type: dir
+count: 0
+cpath: /trunk/Hex-SVN/Project Management/RESOURCES
+copyroot: 0 /
+
+PLAIN
+K 13
+Appreciations
+V 18
+dir 4-340.0.r340/0
+K 21
+Billing and Financial
+V 20
+dir 6-340.0.r340/108
+K 19
+CVA and Innovations
+V 20
+dir 7-340.0.r340/226
+K 12
+Case Studies
+V 20
+dir 8-340.0.r340/342
+K 17
+Client References
+V 20
+dir 9-340.0.r340/451
+K 11
+Estimations
+V 20
+dir a-340.0.r340/565
+K 25
+INTERNAL - Certifications
+V 20
+dir b-340.0.r340/673
+K 28
+INTERNAL - Project Processes
+V 20
+dir c-340.0.r340/795
+K 14
+INTERNAL - SMR
+V 20
+dir d-340.0.r340/920
+K 24
+INTERNAL - Training Plan
+V 21
+dir e-340.0.r340/1031
+K 20
+Important Milestones
+V 21
+dir f-340.0.r340/1153
+K 21
+Installation Material
+V 21
+dir g-340.0.r340/1271
+K 13
+MSA, NDA, SOW
+V 21
+dir h-340.0.r340/1390
+K 11
+Master Plan
+V 21
+dir i-340.0.r340/1501
+K 9
+Proposals
+V 21
+dir j-340.0.r340/1610
+K 25
+REPORTING - Weekly Status
+V 21
+dir k-340.0.r340/1717
+K 9
+RESOURCES
+V 21
+dir l-340.0.r340/1840
+END
+ENDREP
+id: 2-340.0.r340/2804
+type: dir
+count: 0
+text: 340 1947 844 0 dad9854f3af8153fc8cd0d65282c8268
+cpath: /trunk/Hex-SVN/Project Management
+copyroot: 0 /
+
+PLAIN
+K 17
+Project Artifacts
+V 24
+dir 2-339.0.r339/8182610
+K 18
+Project Management
+V 21
+dir 2-340.0.r340/2804
+END
+ENDREP
+id: 1-338.0.r340/3076
+type: dir
+pred: 1-338.0.r339/8182836
+count: 2
+text: 340 2955 108 0 a77b6c574397bad8e88bf0120a24fcef
+cpath: /trunk/Hex-SVN
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r340/3076
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r337/1661
+END
+ENDREP
+id: 3-1.0.r340/3338
+type: dir
+pred: 3-1.0.r339/8183100
+count: 339
+text: 340 3235 90 0 6d9154d48bf45c96034cc924351f89fb
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r340/3338
+END
+ENDREP
+id: 0.0.r340/3601
+type: dir
+pred: 0.0.r339/8183368
+count: 340
+text: 340 3486 102 0 d4b24dfb20ed6eb5430dea344fe31056
+cpath: /
+copyroot: 0 /
+
+_2.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management
+
+_4.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Appreciations
+
+_6.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Billing and Financial
+
+_7.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/CVA and Innovations
+
+_8.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Case Studies
+
+_9.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Client References
+
+_a.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Estimations
+
+_b.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/INTERNAL - Certifications
+
+_c.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/INTERNAL - Project Processes
+
+_d.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/INTERNAL - SMR
+
+_e.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/INTERNAL - Training Plan
+
+_f.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Important Milestones
+
+_g.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Installation Material
+
+_h.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/MSA, NDA, SOW
+
+_i.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Master Plan
+
+_j.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/Proposals
+
+_k.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/REPORTING - Weekly Status
+
+_l.0.t339-9f add-dir false false /trunk/Hex-SVN/Project Management/RESOURCES
+
+
+3601 3741

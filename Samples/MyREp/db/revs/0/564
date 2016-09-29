@@ -1,0 +1,48 @@
+id: 1-564.0.r564/0
+type: dir
+count: 0
+cpath: /tags/Hexaware
+copyroot: 0 /
+
+PLAIN
+K 8
+Hexaware
+V 18
+dir 1-564.0.r564/0
+END
+ENDREP
+id: 2-1.0.r564/129
+type: dir
+pred: 2-1.0.r1/66
+count: 1
+text: 564 75 41 0 214755dc2d612fb3a522677889e02fa2
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 18
+dir 2-1.0.r564/129
+K 5
+trunk
+V 23
+dir 3-1.0.r563/85562901
+END
+ENDREP
+id: 0.0.r564/386
+type: dir
+pred: 0.0.r563/85563173
+count: 564
+text: 564 264 109 0 dc2c8bce9915350a69df99b9aa5b80d6
+cpath: /
+copyroot: 0 /
+
+_1.0.t563-fp add-dir false false /tags/Hexaware
+
+
+386 525

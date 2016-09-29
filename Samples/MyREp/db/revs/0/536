@@ -1,0 +1,134 @@
+id: 7-536.0.r536/0
+type: file
+count: 0
+text: 534 0 238730 403456 effbb720748fc1a1a3065bc9667bc0e0 ae70a4e977fe0d6ab502c553708c8fe38cf2131e 535-ex/_9
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Pre/1_Requirements/FromClient/PPG_SRD Draft.doc
+copyroot: 0 /
+
+id: a-536.0.r536/281
+type: file
+count: 0
+text: 534 238743 281367 506368 9503219e0a9d345e615bac2171a727d2 85a9a7b520162fbd1d756dd5c82a481714cc75e8 535-ex/_b
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Pre/1_Requirements/FromClient/RFP_PPG Network ESB.ppt
+copyroot: 0 /
+
+id: c-536.0.r536/575
+type: file
+count: 0
+text: 534 520123 3591292 4749720 eda2dabf9281fc240035e24ef9953fd1 9e8301547435a01ba799b80819996d6d66eb55ea 535-ex/_d
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Pre/1_Requirements/FromClient/üyâhâëâtâgéQüzéoéoéfâlâbâgâÅü%5bâNâVâXâeâÇ_Translated.pdf
+copyroot: 0 /
+
+PLAIN
+K 17
+PPG_SRD Draft.doc
+V 19
+file 7-536.0.r536/0
+K 23
+RFP_PPG Network ESB.ppt
+V 21
+file a-536.0.r536/281
+K 80
+üyâhâëâtâgéQüzéoéoéfâlâbâgâÅü%5bâNâVâXâeâÇ_Translated.pdf
+V 21
+file c-536.0.r536/575
+END
+ENDREP
+id: 5-536.0.r536/1162
+type: dir
+count: 0
+text: 536 928 221 0 c58d2ff99d347a651d4a794e6810da37
+cpath: /trunk/Pre/1_Requirements/FromClient
+copyroot: 0 /
+
+PLAIN
+K 10
+FromClient
+V 21
+dir 5-536.0.r536/1162
+END
+ENDREP
+id: 3-536.0.r536/1375
+type: dir
+count: 0
+text: 536 1315 47 0 1edfd5103a655f0af347f6dec6efd920
+cpath: /trunk/Pre/1_Requirements
+copyroot: 0 /
+
+PLAIN
+K 14
+1_Requirements
+V 21
+dir 3-536.0.r536/1375
+END
+ENDREP
+id: 1-536.0.r536/1581
+type: dir
+count: 0
+text: 536 1517 51 0 a1bd540e86919d2fe26a52ef3415eede
+cpath: /trunk/Pre
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 3
+Pre
+V 21
+dir 1-536.0.r536/1581
+K 16
+Willis-BeforeDev
+V 21
+dir 1-2.0.r533/677758
+END
+ENDREP
+id: 3-1.0.r536/1848
+type: dir
+pred: 3-1.0.r535/105
+count: 535
+text: 536 1708 127 0 d12587a73b4e7fe2e2f17e62fa3cbf84
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r536/1848
+END
+ENDREP
+id: 0.0.r536/2108
+type: dir
+pred: 0.0.r535/363
+count: 536
+text: 536 1993 102 0 9c448687a7d07d2ae224c6691fcd2c52
+cpath: /
+copyroot: 0 /
+
+_1.0.t535-ex add-dir false false /trunk/Pre
+
+_3.0.t535-ex add-dir false false /trunk/Pre/1_Requirements
+
+_5.0.t535-ex add-dir false false /trunk/Pre/1_Requirements/FromClient
+
+_7.0.t535-ex add-file true true /trunk/Pre/1_Requirements/FromClient/PPG_SRD Draft.doc
+
+_a.0.t535-ex add-file true true /trunk/Pre/1_Requirements/FromClient/RFP_PPG Network ESB.ppt
+
+_c.0.t535-ex add-file true true /trunk/Pre/1_Requirements/FromClient/üyâhâëâtâgéQüzéoéoéfâlâbâgâÅü%5bâNâVâXâeâÇ_Translated.pdf
+
+
+2108 2244

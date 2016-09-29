@@ -1,0 +1,269 @@
+id: 6-421.0-422.r422/0
+type: file
+pred: 6-421.0.r421/13759
+count: 1
+text: 421 0 13746 16632 d753ef7d11fb609ed6b73b3cbbb2fe5f 22d0a5c918b94f8e91009ac598a31943be79b421 420-bo/_8
+props: 7 1161236 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Willis-BeforeDev/2_Requirement/From Willis/20150320/VSEG-FMS Sync-up Process.docx
+copyfrom: 421 /trunk/Willis-BeforeDev/2_Requirement/From Willis/20150320/VSEG Sync up Process.docx
+
+PLAIN
+K 29
+VSEG-FMS Sync-up Process.docx
+V 23
+file 6-421.0-422.r422/0
+END
+ENDREP
+id: 4-421.0.r422/508
+type: dir
+pred: 4-421.0.r421/14149
+count: 1
+text: 422 427 68 0 b70e605c23b58d3ff0da162185c9e322
+cpath: /trunk/Willis-BeforeDev/2_Requirement/From Willis/20150320
+copyroot: 0 /
+
+PLAIN
+K 8
+20141119
+V 21
+dir 4-95.0.r95/923177
+K 8
+20141126
+V 22
+dir 4-148.0.r156/20232
+K 8
+20141127
+V 22
+dir 4-170.0.r183/49659
+K 8
+20141128
+V 21
+dir a-170.0.r257/8783
+K 8
+20141201
+V 22
+dir 4-183.0.r183/50241
+K 8
+20141202
+V 23
+dir 4-166.0.r166/469350
+K 8
+20141204
+V 21
+dir 8-183.0.r256/8874
+K 8
+20141210
+V 22
+dir 4-194.0.r194/21222
+K 8
+20141218
+V 22
+dir 4-238.0.r243/11725
+K 8
+20141223
+V 23
+dir 4-262.0.r262/276474
+K 8
+20150107
+V 24
+dir 4-283.0.r283/1587755
+K 8
+20150112
+V 24
+dir 4-299.0.r299/1049052
+K 8
+20150119
+V 22
+dir 4-314.0.r319/16678
+K 8
+20150130
+V 22
+dir 4-355.0.r355/22263
+K 8
+20150210
+V 22
+dir 4-372.0.r372/14920
+K 8
+20150213
+V 24
+dir 4-399.0.r399/2727017
+K 8
+20150220
+V 24
+dir 8-399.0.r399/2727995
+K 8
+20150226
+V 24
+dir c-399.0.r399/2728576
+K 8
+20150302
+V 22
+dir 4-401.0.r401/18879
+K 8
+20150304
+V 21
+dir 4-405.0.r407/7590
+K 8
+20150306
+V 22
+dir 4-412.0.r412/37948
+K 8
+20150309
+V 22
+dir 6-412.0.r412/38449
+K 8
+20150310
+V 22
+dir 9-412.0.r412/39042
+K 8
+20150317
+V 22
+dir 4-413.0.r413/25732
+K 8
+20150319
+V 21
+dir 4-418.0.r420/1267
+K 8
+20150320
+V 20
+dir 4-421.0.r422/508
+K 21
+Fields structure.xlsx
+V 22
+file 5-48.0.r115/71116
+K 74
+Telerik - activate your account to access support forums and downloads.pdf
+V 24
+file 4-329.0.r329/932065
+K 29
+VSEG_ScreenShots_20141118.pdf
+V 24
+file 6-329.0.r329/932366
+END
+ENDREP
+id: 3-48.0.r422/2024
+type: dir
+pred: 3-48.0.r421/15646
+count: 37
+text: 422 706 1305 0 3fea7f810254f8e65b0011d5580cf10d
+cpath: /trunk/Willis-BeforeDev/2_Requirement/From Willis
+copyroot: 0 /
+
+PLAIN
+K 19
+DocumentsFromClient
+V 20
+dir 3-6.0.r167/10389
+K 11
+From Willis
+V 20
+dir 3-48.0.r422/2024
+K 68
+Functional Specifications - Willis Fleet Management Systems V1.0.doc
+V 24
+file 3-168.0.r168/944560
+END
+ENDREP
+id: 2-3.0.r422/2430
+type: dir
+pred: 2-3.0.r421/16055
+count: 62
+text: 422 2215 202 0 c78ef3a7473edca8d44ccb1a01d99028
+cpath: /trunk/Willis-BeforeDev/2_Requirement
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r328/234962
+K 13
+2_Requirement
+V 19
+dir 2-3.0.r422/2430
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r249/29806
+K 8
+4_Design
+V 20
+dir 2-56.0.r417/2863
+K 13
+5_Development
+V 20
+dir 4-56.0.r403/1937
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+K 15
+Willis-Prj.xlsx
+V 23
+file 2-373.0.r414/11147
+END
+ENDREP
+id: 1-2.0.r422/3018
+type: dir
+pred: 1-2.0.r421/16645
+count: 416
+text: 422 2607 398 0 ad534f2526134a290a2a1d081964806a
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r422/3018
+END
+ENDREP
+id: 3-1.0.r422/3285
+type: dir
+pred: 3-1.0.r421/16914
+count: 421
+text: 422 3182 90 0 a5ff8599ce954ae2bd1f53fc0efed5bc
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r422/3285
+END
+ENDREP
+id: 0.0.r422/3546
+type: dir
+pred: 0.0.r421/17177
+count: 422
+text: 422 3431 102 0 2d36f829c0488426d31bfc8e0866ec71
+cpath: /
+copyroot: 0 /
+
+6-421.0.r421/13759 delete-file false false /trunk/Willis-BeforeDev/2_Requirement/From Willis/20150320/VSEG Sync up Process.docx
+
+6-421._0.t421-bp add-file false false /trunk/Willis-BeforeDev/2_Requirement/From Willis/20150320/VSEG-FMS Sync-up Process.docx
+421 /trunk/Willis-BeforeDev/2_Requirement/From Willis/20150320/VSEG Sync up Process.docx
+
+3546 3684

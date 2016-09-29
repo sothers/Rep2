@@ -1,0 +1,342 @@
+PLAIN
+K 28
+BusinessCodeDetailService.cs
+V 26
+file e-301.0.r500/17586642
+K 22
+BusinessCodeService.cs
+V 27
+file 3f-270.0.r500/17586945
+K 27
+ClientPolicy_TempService.cs
+V 26
+file g-301.0.r500/17587244
+K 16
+ClientService.cs
+V 27
+file 3h-270.0.r500/17587546
+K 16
+CommonService.cs
+V 27
+file 1i-500.0.r500/17587836
+K 35
+CompanyPolicyInconsistentService.cs
+V 27
+file 1k-500.0.r500/17588102
+K 28
+CompanyPolicy_TempService.cs
+V 26
+file c-300.0.r500/17588388
+K 36
+CompanyReceiptInconsistentService.cs
+V 27
+file 1l-500.0.r500/17588691
+K 29
+CompanyReceipt_TempService.cs
+V 26
+file 5-368.0.r500/17588977
+K 17
+CompanyService.cs
+V 27
+file 3i-270.0.r500/17589282
+K 32
+CompanyTemplateMappingService.cs
+V 27
+file 3j-270.0.r500/17589576
+K 9
+Contracts
+V 26
+dir 3k-270.0.r500/17599902
+K 39
+CustomFieldLabelConfigurationService.cs
+V 27
+file 3z-270.0.r500/17600134
+K 31
+DataComparisonReceiptService.cs
+V 26
+file c-368.0.r500/17600449
+K 24
+DataComparisonService.cs
+V 26
+file g-310.0.r500/17600757
+K 26
+ExternalAuxiliarService.cs
+V 26
+file h-310.0.r500/17601058
+K 26
+InternalAuxiliarService.cs
+V 26
+file i-310.0.r500/17601358
+K 16
+OfficeService.cs
+V 27
+file 40-270.0.r500/17601658
+K 23
+PaymentPeriodService.cs
+V 24
+file 41-270.0.r301/38681
+K 23
+PaymentSystemService.cs
+V 27
+file 42-270.0.r500/17601950
+K 22
+PolicyDetailService.cs
+V 23
+file b-375.0.r375/19661
+K 16
+PolicyService.cs
+V 26
+file j-310.0.r500/17602249
+K 10
+Properties
+V 25
+dir 43-270.0.r270/5057498
+K 24
+ReceiptDetailsService.cs
+V 23
+file f-353.0.r353/25598
+K 17
+ReceiptService.cs
+V 26
+file k-310.0.r500/17602542
+K 23
+ReceiptStatusService.cs
+V 26
+file g-353.0.r500/17602836
+K 26
+RemittanceDetailService.cs
+V 26
+file h-353.0.r500/17603134
+K 20
+RemittanceService.cs
+V 27
+file 1s-500.0.r500/17603433
+K 20
+SpecialityService.cs
+V 27
+file 46-270.0.r500/17603703
+K 25
+StoredProcedureService.cs
+V 26
+file m-301.0.r500/17604000
+K 31
+TemplateColumnMappingService.cs
+V 27
+file 47-270.0.r500/17604300
+K 29
+TemplateColumnNamesService.cs
+V 27
+file 48-270.0.r500/17604608
+K 18
+TemplateService.cs
+V 27
+file 49-270.0.r500/17604914
+K 23
+TypeOfVehicleService.cs
+V 23
+file n-301.0.r320/31035
+K 14
+UserService.cs
+V 27
+file 4a-270.0.r500/17605209
+K 25
+Willis.FMS.Service.csproj
+V 27
+file 4b-270.0.r500/17605498
+K 10
+app.config
+V 26
+file 4c-270.0.r270/5059327
+K 3
+bin
+V 25
+dir 4d-270.0.r270/5059585
+K 15
+packages.config
+V 26
+file 4f-270.0.r270/5059863
+END
+ENDREP
+id: 3e-270.0.r504/2375
+type: dir
+pred: 3e-270.0.r500/17608213
+count: 15
+text: 504 0 2362 0 3a03276d7281855b825a0bb781ce2986
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode/Willis.FMS.Service
+copyroot: 0 /
+
+PLAIN
+K 8
+Database
+V 25
+dir 4-500.0.r500/17555367
+K 10
+Frameworks
+V 25
+dir 5-270.0.r500/17563670
+K 17
+Willis.FMS.Common
+V 21
+dir c-500.0.r501/5621
+K 25
+Willis.FMS.Common.Logging
+V 20
+dir f-500.0.r502/859
+K 26
+Willis.FMS.Common.Resource
+V 25
+dir o-500.0.r500/17569315
+K 19
+Willis.FMS.Entities
+V 26
+dir 1x-270.0.r500/17586420
+K 21
+Willis.FMS.Repository
+V 25
+dir 37-270.0.r270/5050098
+K 18
+Willis.FMS.Service
+V 22
+dir 3e-270.0.r504/2375
+K 14
+Willis.FMS.Web
+V 22
+dir 4g-270.0.r503/1376
+K 14
+Willis.FMS.sln
+V 27
+file b5-270.0.r500/17703682
+K 8
+packages
+V 26
+dir b6-270.0.r500/17775946
+END
+ENDREP
+id: 3-270.0.r504/3180
+type: dir
+pred: 3-270.0.r503/2181
+count: 25
+text: 504 2589 578 0 9664de5277ee4991e1b7a3ad94137e4b
+cpath: /trunk/Willis-BeforeDev/5_Development/SourceCode
+copyroot: 0 /
+
+PLAIN
+K 3
+CoE
+V 22
+dir 3-195.0.r214/85164
+K 8
+Database
+V 21
+dir 3-311.0.r484/2338
+K 10
+SourceCode
+V 21
+dir 3-270.0.r504/3180
+END
+ENDREP
+id: 4-56.0.r504/3507
+type: dir
+pred: 4-56.0.r503/2508
+count: 71
+text: 504 3371 123 0 c05e0987c0d9fbf756a8813753a74161
+cpath: /trunk/Willis-BeforeDev/5_Development
+copyroot: 0 /
+
+PLAIN
+K 10
+1_Planning
+V 21
+dir 2-4.0.r436/597615
+K 13
+2_Requirement
+V 20
+dir 2-3.0.r499/88226
+K 10
+3_Analysis
+V 20
+dir 2-5.0.r435/15086
+K 8
+4_Design
+V 20
+dir 2-56.0.r494/2771
+K 13
+5_Development
+V 20
+dir 4-56.0.r504/3507
+K 9
+6_Testing
+V 20
+dir 5-56.0.r56/34682
+K 15
+7_Miscellaneous
+V 22
+dir 2-189.0.r189/58959
+K 9
+8_Release
+V 23
+dir 2-473.0.r498/389501
+K 9
+Reporting
+V 22
+dir 6-56.0.r298/220488
+K 15
+Willis-Prj.xlsx
+V 22
+file 2-373.0.r497/7989
+END
+ENDREP
+id: 1-2.0.r504/4139
+type: dir
+pred: 1-2.0.r503/3140
+count: 498
+text: 504 3685 441 0 b4c56dbb08405d67645b36e84db67b4a
+cpath: /trunk/Willis-BeforeDev
+copyroot: 0 /
+
+PLAIN
+K 7
+Hex-SVN
+V 21
+dir 1-338.0.r341/1358
+K 16
+Willis-BeforeDev
+V 19
+dir 1-2.0.r504/4139
+END
+ENDREP
+id: 3-1.0.r504/4405
+type: dir
+pred: 3-1.0.r503/3406
+count: 503
+text: 504 4302 90 0 2a7394b34fab08dd2215de42cdd859bb
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 19
+dir 3-1.0.r504/4405
+END
+ENDREP
+id: 0.0.r504/4665
+type: dir
+pred: 0.0.r503/3666
+count: 504
+text: 504 4550 102 0 cd79631cef0deb52ef337875ee205d00
+cpath: /
+copyroot: 0 /
+
+4e-270.0.r270/5059724 delete-dir false false /trunk/Willis-BeforeDev/5_Development/SourceCode/Willis.FMS.Service/obj
+
+
+4665 4802
